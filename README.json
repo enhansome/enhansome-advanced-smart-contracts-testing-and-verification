@@ -1,0 +1,397 @@
+{
+  "items": [
+    {
+      "description": "Arsenal of fuzzing and verification tools, tailor-made for probing and dissecting the inner workings of smart contracts.",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Echinda | Ethereum smart contract Property-based fuzzer",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Haskell",
+            "last_commit": "2026-08-12T22:59:04Z",
+            "owner": "crytic",
+            "repo": "echidna",
+            "stars": 3166
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ItyFuzz | EVM and MoveVM hybrid fuzzer that combines symbolic execution and fuzzing",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2025-12-10T00:09:48Z",
+            "owner": "fuzzland",
+            "repo": "ityfuzz",
+            "stars": 1110
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Halmos | Symbolic testing tool for EVM smart contracts",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-08-06T19:05:39Z",
+            "owner": "a16z",
+            "repo": "halmos",
+            "stars": 1028
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Pyrometer | symbolic execution, abstract interpretation, and static analysis",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2025-02-14T15:41:16Z",
+            "owner": "nascentxyz",
+            "repo": "pyrometer",
+            "stars": 799
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Maat | Dynamic Symbolic Execution and Binary Analysis framework",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2026-05-22T18:23:45Z",
+            "owner": "trailofbits",
+            "repo": "maat",
+            "stars": 650
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Medusa | Property-based fuzzer based on Echidna written in go",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-07-06T09:00:49Z",
+            "owner": "crytic",
+            "repo": "medusa",
+            "stars": 484
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Bulloak | Solidity test generator based on the Branching Tree Technique",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2026-03-14T15:40:12Z",
+            "owner": "alexfertel",
+            "repo": "bulloak",
+            "stars": 351
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Etheno | JSON RPC multiplexer, analysis tool wrapper, test integration tool",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Python",
+            "last_commit": "2025-02-14T15:58:57Z",
+            "owner": "crytic",
+            "repo": "etheno",
+            "stars": 337
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Gambit | Solidity mutation system",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2026-08-12T19:15:15Z",
+            "owner": "Certora",
+            "repo": "gambit",
+            "stars": 208
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Vertigo-rs | Ethereum smart contract mutation testing framework",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2023-11-21T01:12:29Z",
+            "owner": "JoranHonig",
+            "repo": "vertigo",
+            "stars": 207
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Dafny-EVM | functional specification of the Ethereum Virtual Machine in Dafny",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Dafny",
+            "last_commit": "2026-05-11T14:57:28Z",
+            "owner": "Consensys",
+            "repo": "evm-dafny",
+            "stars": 139
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Fuzz-utils | Tool for generating Foundry unit tests from smart contract fuzzer failed properties",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Solidity",
+            "last_commit": "2025-08-25T10:43:06Z",
+            "owner": "crytic",
+            "repo": "fuzz-utils",
+            "stars": 116
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Optik | Echidna + Maat coupling for coverage analysis driven Fuzzing",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Python",
+            "last_commit": "2024-09-03T21:37:29Z",
+            "owner": "crytic",
+            "repo": "optik",
+            "stars": 100
+          }
+        }
+      ],
+      "title": "Tools"
+    },
+    {
+      "description": "Fuzzing or fuzz testing is an automated software testing technique that involves providing invalid, unexpected, or randomly generated data as inputs to a computer program.",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "@vn_martinez_ Mastering Fuzzing",
+          "description": "(seminar materials)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Solidity",
+            "last_commit": "2023-06-29T09:40:38Z",
+            "owner": "vnmrtz",
+            "repo": "mastering-fuzzing",
+            "stars": 106
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "@paco0x Kyber Network exploit reproduction with Fuzzing",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Solidity",
+            "last_commit": "2023-11-27T17:27:52Z",
+            "owner": "paco0x",
+            "repo": "kyber-exploit-example",
+            "stars": 77
+          }
+        }
+      ],
+      "title": "Fuzzing"
+    },
+    {
+      "description": "Property-based testing aims to identify and test invariants. Invariants are conditions expressions that should always hold true over the course of a fuzzing campaign. Invariants are about properties of the system as a whole, rather than specific reactions to specific inputs.",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Public Use of Echidna",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Haskell",
+            "last_commit": "2026-08-12T22:59:04Z",
+            "owner": "crytic",
+            "repo": "echidna",
+            "stars": 3166
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Trail of Bits pre-defined invariants",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Solidity",
+            "last_commit": "2026-03-09T17:36:56Z",
+            "owner": "crytic",
+            "repo": "properties",
+            "stars": 371
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Perimetersec Public Fuzzing Campaigns List",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2026-01-24T12:39:26Z",
+            "owner": "perimetersec",
+            "repo": "public-fuzzing-campaigns-list",
+            "stars": 129
+          }
+        }
+      ],
+      "title": "Property-based Fuzz Testing"
+    },
+    {
+      "description": "Differential testing is used to ensure identical behavior between two or more implementations of equivalent code. Useful if you are upgrading/updating code, or have written a more optimized version but you want to verify congruence among implementations.",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Seaport | Discussion #809 Understanding the \"DifferentialTest\" test contract",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Solidity",
+            "last_commit": "2026-07-31T23:41:15Z",
+            "owner": "ProjectOpenSea",
+            "repo": "seaport",
+            "stars": 2255
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Murky Merkle Tree DifferentialTests.t.sol",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Solidity",
+            "last_commit": "2025-02-27T22:13:09Z",
+            "owner": "dmfxyz",
+            "repo": "murky",
+            "stars": 516
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "EnbangWu Differential Fuzzing of solidity Fixed-point libraries",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Solidity",
+            "last_commit": "2023-06-28T16:06:34Z",
+            "owner": "NewmanXBT",
+            "repo": "differential-fuzzing",
+            "stars": 10
+          }
+        }
+      ],
+      "title": "Differential Fuzz Testing"
+    },
+    {
+      "description": "Formal Verification is an approach to assessing the correctness of software by checking whether a formal model of the program matches the formal specification. Unlike testing, formal verification can verify a smart contract's execution satisfies a formal specification for all executions without needing to execute it with sample data.",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Certora Formal Verification of Openzeppelin contracts",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Solidity",
+            "last_commit": "2026-08-13T11:30:52Z",
+            "owner": "OpenZeppelin",
+            "repo": "openzeppelin-contracts",
+            "stars": 27214
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "WilfredTA formal-methods-curriculum",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Jupyter Notebook",
+            "last_commit": "2022-07-14T00:21:43Z",
+            "owner": "WilfredTA",
+            "repo": "formal-methods-curriculum",
+            "stars": 168
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Using Halmos to Formally Verify Solady's FixedPointMathLib",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Solidity",
+            "last_commit": "2024-08-22T03:48:49Z",
+            "owner": "zobront",
+            "repo": "halmos-solady",
+            "stars": 57
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Certora ERC4626 TrustX 2023 workshop",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Solidity",
+            "last_commit": "2023-12-11T12:33:01Z",
+            "owner": "Certora",
+            "repo": "ERC4626_Workshop",
+            "stars": 3
+          }
+        }
+      ],
+      "title": "Formal Verification"
+    },
+    {
+      "description": "Contributions welcome! Read the contribution guidelines first.",
+      "items": [],
+      "title": "Contribute"
+    }
+  ],
+  "metadata": {
+    "last_updated": "2026-08-13T11:42:27.303Z",
+    "original_repository": "GianfrancoBazzani/awesome-advanced-smart-contracts-testing-and-verification",
+    "original_repository_sha": "c3aebf235774f69b40cd74cbd31b04b6a6e2aa6a",
+    "enhanced_repository": "enhansome/enhansome-advanced-smart-contracts-testing-and-verification",
+    "enhanced_repository_description": null,
+    "title": "Awesome Advanced Smart Contracts Testing and Verification with stars"
+  }
+}

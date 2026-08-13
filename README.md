@@ -1,1 +1,116 @@
-# enhansome-advanced-smart-contracts-testing-and-verification
+![](logo/logo.png)
+
+# Awesome Advanced Smart Contracts Testing and Verification with stars
+
+> A curated collection of tools, frameworks, and resources for testing and verifying Solidity smart contracts. Meant to be used by blockchain developers and security researchers as a knowledge source.
+
+## Contents
+
+* [Tools](#tools)
+* [Fuzzing](#fuzzing)
+  * [Property-based Fuzz Testing](#invariants-fuzz-testing)
+  * [Differential Fuzz Testing](#differential-fuzz-testing)
+* [Formal Verification](#formal-verification)
+* [Mutation Testing](#mutation-testing)
+* [Branching Tree Technique](#branching-tree-technique)
+* [Contribute](#contribute)
+
+## Tools
+
+Arsenal of fuzzing and verification tools, tailor-made for probing and dissecting the inner workings of smart contracts.
+
+* [**Echinda | Ethereum smart contract Property-based fuzzer**](https://github.com/crytic/echidna/) ⭐ 3,166 | 🐛 99 | 🌐 Haskell | 📅 2026-08-12
+* [**ItyFuzz | EVM and MoveVM hybrid fuzzer that combines symbolic execution and fuzzing**](https://github.com/fuzzland/ityfuzz) ⭐ 1,110 | 🐛 63 | 🌐 Rust | 📅 2025-12-10
+* [**Halmos | Symbolic testing tool for EVM smart contracts**](https://github.com/a16z/halmos) ⭐ 1,028 | 🐛 73 | 🌐 Python | 📅 2025-08-06
+* [**Pyrometer | symbolic execution, abstract interpretation, and static analysis**](https://github.com/nascentxyz/pyrometer/tree/master) ⭐ 799 | 🐛 15 | 🌐 Rust | 📅 2025-02-14
+* [**Maat | Dynamic Symbolic Execution and Binary Analysis framework**](https://github.com/trailofbits/maat) ⭐ 650 | 🐛 32 | 🌐 C++ | 📅 2026-05-22
+* [**Medusa | Property-based fuzzer based on Echidna written in go**](https://github.com/crytic/medusa) ⭐ 484 | 🐛 73 | 🌐 Go | 📅 2026-07-06
+* [**Bulloak | Solidity test generator based on the Branching Tree Technique**](https://github.com/alexfertel/bulloak) ⭐ 351 | 🐛 14 | 🌐 Rust | 📅 2026-03-14
+* [**Etheno | JSON RPC multiplexer, analysis tool wrapper, test integration tool**](https://github.com/crytic/etheno) ⚠️ Archived
+* [**Gambit | Solidity mutation system**](https://github.com/Certora/gambit) ⭐ 208 | 🐛 11 | 🌐 Rust | 📅 2026-08-12
+* [**Vertigo-rs | Ethereum smart contract mutation testing framework**](https://github.com/JoranHonig/vertigo) ⭐ 207 | 🐛 17 | 🌐 Python | 📅 2023-11-21
+* [**Dafny-EVM | functional specification of the Ethereum Virtual Machine in Dafny**](https://github.com/ConsenSys/evm-dafny) ⭐ 139 | 🐛 46 | 🌐 Dafny | 📅 2026-05-11
+* [**Fuzz-utils | Tool for generating Foundry unit tests from smart contract fuzzer failed properties**](https://github.com/crytic/fuzz-utils) ⭐ 116 | 🐛 19 | 🌐 Solidity | 📅 2025-08-25
+* [**Optik | Echidna + Maat coupling for coverage analysis driven Fuzzing**](https://github.com/crytic/optik/tree/master) ⚠️ Archived
+* [**Foundry | Ethereum development framework written in Rust**](https://github.com/foundry-rs)
+* [**Certora Prover | Formal verification Tool**](https://docs.certora.com/en/latest/docs/whitepaper/index.html#certora-tool-suite)
+* [**Simbolik | Solidity smart contract symbolic debugger**](https://simbolik.runtimeverification.com/)
+* [**Kontrol | Formal verification with KEVM and Foundry**](https://docs.runtimeverification.com/kontrol/overview/readme)
+
+## Fuzzing
+
+**Fuzzing** or **fuzz** testing is an automated software testing technique that involves providing invalid, unexpected, or randomly generated data as inputs to a computer program.
+
+* [**@vn\_martinez\_ Mastering Fuzzing**](https://www.youtube.com/watch?v=83q14K-WNKM) ([seminar materials](https://github.com/Elpacos/mastering-fuzzing) ⭐ 106 | 🐛 0 | 🌐 Solidity | 📅 2023-06-29)
+* [**@paco0x Kyber Network exploit reproduction with Fuzzing**](https://github.com/paco0x/kyber-exploit-example) ⭐ 77 | 🐛 0 | 🌐 Solidity | 📅 2023-11-27
+* [**Fuzzing Labs @Pat\_Ventuzelo ETHCC5 Fuzzing talk**](https://docs.google.com/presentation/d/1uCgiclLuoFDtIlYSenf4CbTItAtqz6_QH6XoZi8xI7Q/edit#slide=id.g1107f83abee_0_65)
+* [**Trail of Bits Fuzzing Workshop**](https://www.youtube.com/playlist?list=PLciHOL_J7Iwqdja9UH4ZzE8dP1IxtsBXI) (10 hours Workshop)
+* [**@dacian Exploiting Precision Loss via Fuzz Testing**](https://dacian.me/exploiting-precision-loss-via-fuzz-testing)
+* [**Foundry Book Fuzz Testing**](https://book.getfoundry.sh/forge/fuzz-testing)
+
+### Property-based Fuzz Testing
+
+**Property-based** testing aims to identify and test **invariants**. Invariants are conditions expressions that should always hold true over the course of a fuzzing campaign. Invariants are about properties of the system as a whole, rather than specific reactions to specific inputs.
+
+* [**Public Use of Echidna**](https://github.com/crytic/echidna?tab=readme-ov-file#public-use-of-echidna) ⭐ 3,166 | 🐛 99 | 🌐 Haskell | 📅 2026-08-12
+* [**Trail of Bits pre-defined invariants**](https://github.com/crytic/properties) ⭐ 371 | 🐛 35 | 🌐 Solidity | 📅 2026-03-09
+* [**Perimetersec Public Fuzzing Campaigns List**](https://github.com/perimetersec/public-fuzzing-campaigns-list) ⭐ 129 | 🐛 0 | 📅 2026-01-24
+* [**Trail of Bits Echidna Tutorials**](https://secure-contracts.com/program-analysis/echidna/index.html)
+* [**Gustavo Grieco - Spearbit: Echidna Workshop**](https://www.youtube.com/watch?v=kAfknRlvAt0)
+* [**@agfviggiano Advanced Fuzzing Techniques: An eBTC Case Study**](https://youtu.be/ELY_zjIAKuE?feature=shared)
+* [**@agfviggiano OpenSense Invariant Testing Workshop**](https://www.youtube.com/watch?v=YAF79t_Sfiw)
+* [**@agfviggiano How to How to write (good) invariants?**](https://twitter.com/agfviggiano/status/1735235127171551320)
+* [**RareSkills invariant testing in foundry**](https://www.rareskills.io/post/invariant-testing-solidity)
+* [**@horsefacts Invariant Testing WETH With Foundry**](https://mirror.xyz/horsefacts.eth/Jex2YVaO65dda6zEyfM_-DXlXhOWCAoSpOx5PLocYgwç)
+* [**Patrick Collins Fuzz | Invariant Tests**](https://patrickalphac.medium.com/fuzz-invariant-tests-the-new-bare-minimum-for-smart-contract-security-87ebe150e88c)
+* [**Hybrid fuzzing: Sharpening the spikes of Echidna**](https://blog.trailofbits.com/2022/12/08/hybrid-echidna-fuzzing-optik-maat/)
+* [**Foundry Book Invariant Testing**](https://book.getfoundry.sh/forge/invariant-testing)
+
+### Differential Fuzz Testing
+
+**Differential testing** is used to ensure identical behavior between two or more implementations of equivalent code. Useful if you are upgrading/updating code, or have written a more optimized version but you want to verify congruence among implementations.
+
+* [**Seaport | Discussion #809 Understanding the "DifferentialTest" test contract**](https://github.com/ProjectOpenSea/seaport/discussions/809) ⭐ 2,255 | 🐛 11 | 🌐 Solidity | 📅 2026-07-31
+* [**Murky Merkle Tree DifferentialTests.t.sol**](https://github.com/dmfxyz/murky/blob/main/differential_testing/test/DifferentialTests.t.sol) ⭐ 516 | 🐛 10 | 🌐 Solidity | 📅 2025-02-27
+* [**EnbangWu Differential Fuzzing of solidity Fixed-point libraries**](https://github.com/EnbangWu/differential-fuzzing) ⭐ 10 | 🐛 0 | 🌐 Solidity | 📅 2023-06-28
+* [**@annascarrol Solidity Summit 2023 - Differential Testing with Foundry by Anna Carroll**](https://twitter.com/i/broadcasts/1BdGYrpOQVXJX) ([link 2](https://www.youtube.com/watch?v=wV8xuj-XsjA\&list=PLX8x7Zj6VeznJuVkZtRyKwseJdrr4mNsE\&index=13))
+* [**Differential Test | Testing with Foundry**](https://www.youtube.com/watch?v=WhZQhxOG124)
+* [**Foundry Book differential testing**](https://book.getfoundry.sh/forge/differential-ffi-testing)
+
+## Formal Verification
+
+**Formal Verification** is an approach to assessing the correctness of software by checking whether a formal model of the program matches the formal specification. Unlike testing, formal verification can verify a smart contract's execution satisfies a formal specification for all executions without needing to execute it with sample data.
+
+* [**Certora Formal Verification of Openzeppelin contracts**](https://github.com/OpenZeppelin/openzeppelin-contracts/blob/master/certora/README.md) ⭐ 27,214 | 🐛 364 | 🌐 Solidity | 📅 2026-08-13
+* [**WilfredTA formal-methods-curriculum**](https://github.com/WilfredTA/formal-methods-curriculum/tree/master) ⭐ 168 | 🐛 1 | 🌐 Jupyter Notebook | 📅 2022-07-14
+* [**Using Halmos to Formally Verify Solady's FixedPointMathLib**](https://github.com/zobront/halmos-solady) ⭐ 57 | 🐛 0 | 🌐 Solidity | 📅 2024-08-22
+* [**Certora ERC4626 TrustX 2023 workshop**](https://github.com/Certora/ERC4626_Workshop) ⭐ 3 | 🐛 0 | 🌐 Solidity | 📅 2023-12-11
+* [**Certora prover documentation**](https://docs.certora.com/en/latest/)
+* [**Everything You Wanted to Know About Symbolic Execution for Ethereum Smart Contracts**](https://hackmd.io/@SaferMaker/EVM-Sym-Exec)
+* [**The Easy Way To Quit (Concrete) Testing**](https://hackmd.io/@SaferMaker/EVM-Sym-Test)
+* [**0xkarmacoma Beyond Fuzzing: Symbolic Testing in Practice Solidity Summit 2023**](https://www.youtube.com/watch?v=GFCjG5KOetM\&list=PLX8x7Zj6VeznJuVkZtRyKwseJdrr4mNsE\&index=13) ([X thread](https://twitter.com/0xkarmacoma/status/1725675343993065504))
+* [**runtime verification The Symbolic Solidity Debugger TrustX 2023**](https://www.youtube.com/watch?v=irwV7c8cFRY\&list=PLYORQHvGMg-WwVyOrOiRVEgw4QCzxHXSQ\&index=8)
+* [**jellopaper.org KEVM: Semantics of EVM in K**](https://jellopaper.org/)
+
+## Mutation Testing
+
+Mutation testing is a technique for evaluating and improving test suites. The key idea is to introduce faults, called mutants, to the program under test and measure a test suite’s ability to detect these mutants.
+
+* [**Chandrakana Nandi, How Good Is Your Formal Specification? Mutation Testing To The Rescue! Solidity Summit 2023**](https://www.youtube.com/watch?v=g3dxF7XfBWk\&list=PLX8x7Zj6VeznJuVkZtRyKwseJdrr4mNsE\&index=5)
+* [**Certora Gambit: Mutation Generator for Solidity Docs**](http://rtora.com/en/latest/docs/gambit/index.html)
+
+## Branching Tree Technique
+
+Specification framework for writing structured Solidity tests.
+
+* [**@PaulRBerg Branching Tree Technique**](https://twitter.com/PaulRBerg/status/1682346315806539776)
+* [**@PaulRberg Solidity Summit 2023 Branching Tree Technique**](https://www.youtube.com/watch?v=0-EmbNVgFA4\&list=PLX8x7Zj6VeznJuVkZtRyKwseJdrr4mNsE\&index=14)
+* [**PaulRBerg/btt-examples**](https://github.com/PaulRBerg/btt-examples) ⭐ 76 | 🐛 0 | 🌐 Solidity | 📅 2023-11-16
+
+## Contribute
+
+Contributions welcome! Read the [contribution guidelines](contributing.md) first.
+
+***
+
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-13._
