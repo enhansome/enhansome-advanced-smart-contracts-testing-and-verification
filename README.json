@@ -11,10 +11,10 @@
           "repo_info": {
             "archived": false,
             "language": "Haskell",
-            "last_commit": "2026-08-12T22:59:04Z",
+            "last_commit": "2026-08-14T00:06:57Z",
             "owner": "crytic",
             "repo": "echidna",
-            "stars": 3166
+            "stars": 3167
           }
         },
         {
@@ -233,10 +233,10 @@
           "repo_info": {
             "archived": false,
             "language": "Haskell",
-            "last_commit": "2026-08-12T22:59:04Z",
+            "last_commit": "2026-08-14T00:06:57Z",
             "owner": "crytic",
             "repo": "echidna",
-            "stars": 3166
+            "stars": 3167
           }
         },
         {
@@ -329,10 +329,10 @@
           "repo_info": {
             "archived": false,
             "language": "Solidity",
-            "last_commit": "2026-08-13T11:30:52Z",
+            "last_commit": "2026-08-14T10:13:02Z",
             "owner": "OpenZeppelin",
             "repo": "openzeppelin-contracts",
-            "stars": 27214
+            "stars": 27215
           }
         },
         {
@@ -387,7 +387,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-13T11:42:27.303Z",
+    "last_updated": "2026-08-14T11:41:37.559Z",
     "original_repository": "GianfrancoBazzani/awesome-advanced-smart-contracts-testing-and-verification",
     "original_repository_sha": "c3aebf235774f69b40cd74cbd31b04b6a6e2aa6a",
     "enhanced_repository": "enhansome/enhansome-advanced-smart-contracts-testing-and-verification",
