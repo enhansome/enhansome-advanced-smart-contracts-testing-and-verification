@@ -298,7 +298,7 @@
             "last_commit": "2025-02-27T22:13:09Z",
             "owner": "dmfxyz",
             "repo": "murky",
-            "stars": 516
+            "stars": 515
           }
         },
         {
@@ -329,10 +329,10 @@
           "repo_info": {
             "archived": false,
             "language": "Solidity",
-            "last_commit": "2026-08-15T08:46:07Z",
+            "last_commit": "2026-08-17T10:02:10Z",
             "owner": "OpenZeppelin",
             "repo": "openzeppelin-contracts",
-            "stars": 27219
+            "stars": 27218
           }
         },
         {
@@ -387,7 +387,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-16T11:16:12.026Z",
+    "last_updated": "2026-08-17T11:20:49.367Z",
     "original_repository": "GianfrancoBazzani/awesome-advanced-smart-contracts-testing-and-verification",
     "original_repository_sha": "c3aebf235774f69b40cd74cbd31b04b6a6e2aa6a",
     "enhanced_repository": "enhansome/enhansome-advanced-smart-contracts-testing-and-verification",
