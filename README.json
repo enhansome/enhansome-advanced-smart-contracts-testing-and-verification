@@ -56,7 +56,7 @@
             "last_commit": "2025-02-14T15:41:16Z",
             "owner": "nascentxyz",
             "repo": "pyrometer",
-            "stars": 799
+            "stars": 798
           }
         },
         {
@@ -329,7 +329,7 @@
           "repo_info": {
             "archived": false,
             "language": "Solidity",
-            "last_commit": "2026-08-17T10:02:10Z",
+            "last_commit": "2026-08-18T11:17:03Z",
             "owner": "OpenZeppelin",
             "repo": "openzeppelin-contracts",
             "stars": 27218
@@ -387,7 +387,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-17T11:20:49.367Z",
+    "last_updated": "2026-08-18T11:21:11.293Z",
     "original_repository": "GianfrancoBazzani/awesome-advanced-smart-contracts-testing-and-verification",
     "original_repository_sha": "c3aebf235774f69b40cd74cbd31b04b6a6e2aa6a",
     "enhanced_repository": "enhansome/enhansome-advanced-smart-contracts-testing-and-verification",
