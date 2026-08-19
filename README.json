@@ -10,11 +10,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 101585932,
             "language": "Haskell",
             "last_commit": "2026-08-14T23:14:32Z",
             "owner": "crytic",
             "repo": "echidna",
-            "stars": 3167
+            "stars": 3169
           }
         },
         {
@@ -24,6 +25,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 557020771,
             "language": "Rust",
             "last_commit": "2025-12-10T00:09:48Z",
             "owner": "fuzzland",
@@ -38,6 +40,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 577492459,
             "language": "Python",
             "last_commit": "2025-08-06T19:05:39Z",
             "owner": "a16z",
@@ -52,6 +55,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 586608936,
             "language": "Rust",
             "last_commit": "2025-02-14T15:41:16Z",
             "owner": "nascentxyz",
@@ -66,6 +70,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 418854583,
             "language": "C++",
             "last_commit": "2026-05-22T18:23:45Z",
             "owner": "trailofbits",
@@ -80,6 +85,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 401814297,
             "language": "Go",
             "last_commit": "2026-07-06T09:00:49Z",
             "owner": "crytic",
@@ -94,6 +100,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 674393599,
             "language": "Rust",
             "last_commit": "2026-03-14T15:40:12Z",
             "owner": "alexfertel",
@@ -108,6 +115,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 138937540,
             "language": "Python",
             "last_commit": "2025-02-14T15:58:57Z",
             "owner": "crytic",
@@ -122,6 +130,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 566004537,
             "language": "Rust",
             "last_commit": "2026-08-12T19:15:15Z",
             "owner": "Certora",
@@ -136,6 +145,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 202979470,
             "language": "Python",
             "last_commit": "2023-11-21T01:12:29Z",
             "owner": "JoranHonig",
@@ -150,6 +160,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 455364661,
             "language": "Dafny",
             "last_commit": "2026-05-11T14:57:28Z",
             "owner": "Consensys",
@@ -164,6 +175,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 739006161,
             "language": "Solidity",
             "last_commit": "2025-08-25T10:43:06Z",
             "owner": "crytic",
@@ -178,6 +190,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 489018761,
             "language": "Python",
             "last_commit": "2024-09-03T21:37:29Z",
             "owner": "crytic",
@@ -198,6 +211,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 646260779,
             "language": "Solidity",
             "last_commit": "2023-06-29T09:40:38Z",
             "owner": "vnmrtz",
@@ -212,111 +226,120 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 722771742,
             "language": "Solidity",
             "last_commit": "2023-11-27T17:27:52Z",
             "owner": "paco0x",
             "repo": "kyber-exploit-example",
             "stars": 77
           }
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Public Use of Echidna",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 101585932,
+                "language": "Haskell",
+                "last_commit": "2026-08-14T23:14:32Z",
+                "owner": "crytic",
+                "repo": "echidna",
+                "stars": 3169
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Trail of Bits pre-defined invariants",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 605212739,
+                "language": "Solidity",
+                "last_commit": "2026-03-09T17:36:56Z",
+                "owner": "crytic",
+                "repo": "properties",
+                "stars": 371
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Perimetersec Public Fuzzing Campaigns List",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 753544517,
+                "language": null,
+                "last_commit": "2026-01-24T12:39:26Z",
+                "owner": "perimetersec",
+                "repo": "public-fuzzing-campaigns-list",
+                "stars": 129
+              }
+            }
+          ],
+          "description": "Property-based testing aims to identify and test invariants. Invariants are conditions expressions that should always hold true over the course of a fuzzing campaign. Invariants are about properties of the system as a whole, rather than specific reactions to specific inputs.",
+          "node_type": "group",
+          "title": "Property-based Fuzz Testing"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Seaport | Discussion #809 Understanding the \"DifferentialTest\" test contract",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 450202525,
+                "language": "Solidity",
+                "last_commit": "2026-07-31T23:41:15Z",
+                "owner": "ProjectOpenSea",
+                "repo": "seaport",
+                "stars": 2256
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Murky Merkle Tree DifferentialTests.t.sol",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 477559097,
+                "language": "Solidity",
+                "last_commit": "2025-02-27T22:13:09Z",
+                "owner": "dmfxyz",
+                "repo": "murky",
+                "stars": 515
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "EnbangWu Differential Fuzzing of solidity Fixed-point libraries",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 632780428,
+                "language": "Solidity",
+                "last_commit": "2023-06-28T16:06:34Z",
+                "owner": "NewmanXBT",
+                "repo": "differential-fuzzing",
+                "stars": 10
+              }
+            }
+          ],
+          "description": "Differential testing is used to ensure identical behavior between two or more implementations of equivalent code. Useful if you are upgrading/updating code, or have written a more optimized version but you want to verify congruence among implementations.",
+          "node_type": "group",
+          "title": "Differential Fuzz Testing"
         }
       ],
       "title": "Fuzzing"
-    },
-    {
-      "description": "Property-based testing aims to identify and test invariants. Invariants are conditions expressions that should always hold true over the course of a fuzzing campaign. Invariants are about properties of the system as a whole, rather than specific reactions to specific inputs.",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "Public Use of Echidna",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Haskell",
-            "last_commit": "2026-08-14T23:14:32Z",
-            "owner": "crytic",
-            "repo": "echidna",
-            "stars": 3167
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Trail of Bits pre-defined invariants",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Solidity",
-            "last_commit": "2026-03-09T17:36:56Z",
-            "owner": "crytic",
-            "repo": "properties",
-            "stars": 371
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Perimetersec Public Fuzzing Campaigns List",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": null,
-            "last_commit": "2026-01-24T12:39:26Z",
-            "owner": "perimetersec",
-            "repo": "public-fuzzing-campaigns-list",
-            "stars": 129
-          }
-        }
-      ],
-      "title": "Property-based Fuzz Testing"
-    },
-    {
-      "description": "Differential testing is used to ensure identical behavior between two or more implementations of equivalent code. Useful if you are upgrading/updating code, or have written a more optimized version but you want to verify congruence among implementations.",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "Seaport | Discussion #809 Understanding the \"DifferentialTest\" test contract",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Solidity",
-            "last_commit": "2026-07-31T23:41:15Z",
-            "owner": "ProjectOpenSea",
-            "repo": "seaport",
-            "stars": 2256
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Murky Merkle Tree DifferentialTests.t.sol",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Solidity",
-            "last_commit": "2025-02-27T22:13:09Z",
-            "owner": "dmfxyz",
-            "repo": "murky",
-            "stars": 515
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "EnbangWu Differential Fuzzing of solidity Fixed-point libraries",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Solidity",
-            "last_commit": "2023-06-28T16:06:34Z",
-            "owner": "NewmanXBT",
-            "repo": "differential-fuzzing",
-            "stars": 10
-          }
-        }
-      ],
-      "title": "Differential Fuzz Testing"
     },
     {
       "description": "Formal Verification is an approach to assessing the correctness of software by checking whether a formal model of the program matches the formal specification. Unlike testing, formal verification can verify a smart contract's execution satisfies a formal specification for all executions without needing to execute it with sample data.",
@@ -328,11 +351,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 64700934,
             "language": "Solidity",
-            "last_commit": "2026-08-18T11:17:03Z",
+            "last_commit": "2026-08-19T10:36:28Z",
             "owner": "OpenZeppelin",
             "repo": "openzeppelin-contracts",
-            "stars": 27218
+            "stars": 27219
           }
         },
         {
@@ -342,6 +366,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 445009171,
             "language": "Jupyter Notebook",
             "last_commit": "2022-07-14T00:21:43Z",
             "owner": "WilfredTA",
@@ -356,6 +381,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 611065930,
             "language": "Solidity",
             "last_commit": "2024-08-22T03:48:49Z",
             "owner": "zobront",
@@ -370,6 +396,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 718024615,
             "language": "Solidity",
             "last_commit": "2023-12-11T12:33:01Z",
             "owner": "Certora",
@@ -379,15 +406,10 @@
         }
       ],
       "title": "Formal Verification"
-    },
-    {
-      "description": "Contributions welcome! Read the contribution guidelines first.",
-      "items": [],
-      "title": "Contribute"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-18T11:21:11.293Z",
+    "last_updated": "2026-08-19T11:21:07.618Z",
     "original_repository": "GianfrancoBazzani/awesome-advanced-smart-contracts-testing-and-verification",
     "original_repository_sha": "c3aebf235774f69b40cd74cbd31b04b6a6e2aa6a",
     "enhanced_repository": "enhansome/enhansome-advanced-smart-contracts-testing-and-verification",
