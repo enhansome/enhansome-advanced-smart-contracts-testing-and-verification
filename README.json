@@ -15,7 +15,7 @@
             "last_commit": "2026-08-14T23:14:32Z",
             "owner": "crytic",
             "repo": "echidna",
-            "stars": 3169
+            "stars": 3170
           }
         },
         {
@@ -90,7 +90,7 @@
             "last_commit": "2026-08-19T20:51:02Z",
             "owner": "crytic",
             "repo": "medusa",
-            "stars": 483
+            "stars": 484
           }
         },
         {
@@ -135,7 +135,7 @@
             "last_commit": "2026-08-12T19:15:15Z",
             "owner": "Certora",
             "repo": "gambit",
-            "stars": 208
+            "stars": 209
           }
         },
         {
@@ -248,7 +248,7 @@
                 "last_commit": "2026-08-14T23:14:32Z",
                 "owner": "crytic",
                 "repo": "echidna",
-                "stars": 3169
+                "stars": 3170
               }
             },
             {
@@ -297,7 +297,7 @@
                 "archived": false,
                 "id": 450202525,
                 "language": "Solidity",
-                "last_commit": "2026-07-31T23:41:15Z",
+                "last_commit": "2026-08-22T21:16:40Z",
                 "owner": "ProjectOpenSea",
                 "repo": "seaport",
                 "stars": 2254
@@ -356,7 +356,7 @@
             "last_commit": "2026-08-21T14:31:31Z",
             "owner": "OpenZeppelin",
             "repo": "openzeppelin-contracts",
-            "stars": 27223
+            "stars": 27227
           }
         },
         {
@@ -409,7 +409,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-22T11:17:32.740Z",
+    "last_updated": "2026-08-23T11:17:12.883Z",
     "original_repository": "GianfrancoBazzani/awesome-advanced-smart-contracts-testing-and-verification",
     "original_repository_id": 720551727,
     "original_repository_sha": "c3aebf235774f69b40cd74cbd31b04b6a6e2aa6a",
