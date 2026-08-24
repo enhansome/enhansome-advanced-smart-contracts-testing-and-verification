@@ -81,7 +81,7 @@ Arsenal of fuzzing and verification tools, tailor-made for probing and dissectin
 
 **Formal Verification** is an approach to assessing the correctness of software by checking whether a formal model of the program matches the formal specification. Unlike testing, formal verification can verify a smart contract's execution satisfies a formal specification for all executions without needing to execute it with sample data.
 
-* [**Certora Formal Verification of Openzeppelin contracts**](https://github.com/OpenZeppelin/openzeppelin-contracts/blob/master/certora/README.md) ⭐ 27,230 | 🐛 371 | 🌐 Solidity | 📅 2026-08-21
+* [**Certora Formal Verification of Openzeppelin contracts**](https://github.com/OpenZeppelin/openzeppelin-contracts/blob/master/certora/README.md) ⭐ 27,232 | 🐛 372 | 🌐 Solidity | 📅 2026-08-24
 * [**WilfredTA formal-methods-curriculum**](https://github.com/WilfredTA/formal-methods-curriculum/tree/master) ⭐ 168 | 🐛 1 | 🌐 Jupyter Notebook | 📅 2022-07-14
 * [**Using Halmos to Formally Verify Solady's FixedPointMathLib**](https://github.com/zobront/halmos-solady) ⭐ 57 | 🐛 0 | 🌐 Solidity | 📅 2024-08-22
 * [**Certora ERC4626 TrustX 2023 workshop**](https://github.com/Certora/ERC4626_Workshop) ⭐ 3 | 🐛 0 | 🌐 Solidity | 📅 2023-12-11
