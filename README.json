@@ -353,7 +353,7 @@
             "archived": false,
             "id": 64700934,
             "language": "Solidity",
-            "last_commit": "2026-08-25T00:43:38Z",
+            "last_commit": "2026-08-25T10:18:32Z",
             "owner": "OpenZeppelin",
             "repo": "openzeppelin-contracts",
             "stars": 27232
@@ -409,7 +409,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T06:36:41.249Z",
+    "last_updated": "2026-08-25T11:23:08.470Z",
     "original_repository": "GianfrancoBazzani/awesome-advanced-smart-contracts-testing-and-verification",
     "original_repository_id": 720551727,
     "original_repository_sha": "c3aebf235774f69b40cd74cbd31b04b6a6e2aa6a",
