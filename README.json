@@ -297,7 +297,7 @@
                 "archived": false,
                 "id": 450202525,
                 "language": "Solidity",
-                "last_commit": "2026-08-24T16:24:27Z",
+                "last_commit": "2026-08-25T16:30:32Z",
                 "owner": "ProjectOpenSea",
                 "repo": "seaport",
                 "stars": 2255
@@ -353,10 +353,10 @@
             "archived": false,
             "id": 64700934,
             "language": "Solidity",
-            "last_commit": "2026-08-25T10:18:32Z",
+            "last_commit": "2026-08-25T18:17:57Z",
             "owner": "OpenZeppelin",
             "repo": "openzeppelin-contracts",
-            "stars": 27232
+            "stars": 27234
           }
         },
         {
@@ -409,7 +409,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T11:23:08.470Z",
+    "last_updated": "2026-08-26T11:25:26.834Z",
     "original_repository": "GianfrancoBazzani/awesome-advanced-smart-contracts-testing-and-verification",
     "original_repository_id": 720551727,
     "original_repository_sha": "c3aebf235774f69b40cd74cbd31b04b6a6e2aa6a",
