@@ -19,7 +19,7 @@
 
 Arsenal of fuzzing and verification tools, tailor-made for probing and dissecting the inner workings of smart contracts.
 
-* [**Echinda | Ethereum smart contract Property-based fuzzer**](https://github.com/crytic/echidna/) ⭐ 3,171 | 🐛 103 | 🌐 Haskell | 📅 2026-08-26
+* [**Echinda | Ethereum smart contract Property-based fuzzer**](https://github.com/crytic/echidna/) ⭐ 3,171 | 🐛 102 | 🌐 Haskell | 📅 2026-08-27
 * [**ItyFuzz | EVM and MoveVM hybrid fuzzer that combines symbolic execution and fuzzing**](https://github.com/fuzzland/ityfuzz) ⭐ 1,108 | 🐛 63 | 🌐 Rust | 📅 2025-12-10
 * [**Halmos | Symbolic testing tool for EVM smart contracts**](https://github.com/a16z/halmos) ⭐ 1,028 | 🐛 74 | 🌐 Python | 📅 2025-08-06
 * [**Pyrometer | symbolic execution, abstract interpretation, and static analysis**](https://github.com/nascentxyz/pyrometer/tree/master) ⭐ 797 | 🐛 15 | 🌐 Rust | 📅 2025-02-14
@@ -52,7 +52,7 @@ Arsenal of fuzzing and verification tools, tailor-made for probing and dissectin
 
 **Property-based** testing aims to identify and test **invariants**. Invariants are conditions expressions that should always hold true over the course of a fuzzing campaign. Invariants are about properties of the system as a whole, rather than specific reactions to specific inputs.
 
-* [**Public Use of Echidna**](https://github.com/crytic/echidna?tab=readme-ov-file#public-use-of-echidna) ⭐ 3,171 | 🐛 103 | 🌐 Haskell | 📅 2026-08-26
+* [**Public Use of Echidna**](https://github.com/crytic/echidna?tab=readme-ov-file#public-use-of-echidna) ⭐ 3,171 | 🐛 102 | 🌐 Haskell | 📅 2026-08-27
 * [**Trail of Bits pre-defined invariants**](https://github.com/crytic/properties) ⭐ 371 | 🐛 35 | 🌐 Solidity | 📅 2026-03-09
 * [**Perimetersec Public Fuzzing Campaigns List**](https://github.com/perimetersec/public-fuzzing-campaigns-list) ⭐ 129 | 🐛 0 | 📅 2026-01-24
 * [**Trail of Bits Echidna Tutorials**](https://secure-contracts.com/program-analysis/echidna/index.html)
@@ -70,7 +70,7 @@ Arsenal of fuzzing and verification tools, tailor-made for probing and dissectin
 
 **Differential testing** is used to ensure identical behavior between two or more implementations of equivalent code. Useful if you are upgrading/updating code, or have written a more optimized version but you want to verify congruence among implementations.
 
-* [**Seaport | Discussion #809 Understanding the "DifferentialTest" test contract**](https://github.com/ProjectOpenSea/seaport/discussions/809) ⭐ 2,255 | 🐛 10 | 🌐 Solidity | 📅 2026-08-25
+* [**Seaport | Discussion #809 Understanding the "DifferentialTest" test contract**](https://github.com/ProjectOpenSea/seaport/discussions/809) ⭐ 2,256 | 🐛 10 | 🌐 Solidity | 📅 2026-08-25
 * [**Murky Merkle Tree DifferentialTests.t.sol**](https://github.com/dmfxyz/murky/blob/main/differential_testing/test/DifferentialTests.t.sol) ⭐ 516 | 🐛 10 | 🌐 Solidity | 📅 2025-02-27
 * [**EnbangWu Differential Fuzzing of solidity Fixed-point libraries**](https://github.com/EnbangWu/differential-fuzzing) ⭐ 10 | 🐛 0 | 🌐 Solidity | 📅 2023-06-28
 * [**@annascarrol Solidity Summit 2023 - Differential Testing with Foundry by Anna Carroll**](https://twitter.com/i/broadcasts/1BdGYrpOQVXJX) ([link 2](https://www.youtube.com/watch?v=wV8xuj-XsjA\&list=PLX8x7Zj6VeznJuVkZtRyKwseJdrr4mNsE\&index=13))

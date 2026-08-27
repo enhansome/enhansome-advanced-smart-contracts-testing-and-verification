@@ -12,7 +12,7 @@
             "archived": false,
             "id": 101585932,
             "language": "Haskell",
-            "last_commit": "2026-08-26T21:34:24Z",
+            "last_commit": "2026-08-27T13:12:52Z",
             "owner": "crytic",
             "repo": "echidna",
             "stars": 3171
@@ -245,7 +245,7 @@
                 "archived": false,
                 "id": 101585932,
                 "language": "Haskell",
-                "last_commit": "2026-08-26T21:34:24Z",
+                "last_commit": "2026-08-27T13:12:52Z",
                 "owner": "crytic",
                 "repo": "echidna",
                 "stars": 3171
@@ -300,7 +300,7 @@
                 "last_commit": "2026-08-25T16:30:32Z",
                 "owner": "ProjectOpenSea",
                 "repo": "seaport",
-                "stars": 2255
+                "stars": 2256
               }
             },
             {
@@ -353,7 +353,7 @@
             "archived": false,
             "id": 64700934,
             "language": "Solidity",
-            "last_commit": "2026-08-27T09:26:57Z",
+            "last_commit": "2026-08-27T15:20:16Z",
             "owner": "OpenZeppelin",
             "repo": "openzeppelin-contracts",
             "stars": 27235
@@ -409,7 +409,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T11:19:31.218Z",
+    "last_updated": "2026-08-27T20:53:30.740Z",
     "original_repository_info": {
       "archived": false,
       "id": 720551727,
