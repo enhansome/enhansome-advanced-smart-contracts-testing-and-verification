@@ -12,10 +12,10 @@
             "archived": false,
             "id": 101585932,
             "language": "Haskell",
-            "last_commit": "2026-08-25T06:19:25Z",
+            "last_commit": "2026-08-26T21:34:24Z",
             "owner": "crytic",
             "repo": "echidna",
-            "stars": 3170
+            "stars": 3171
           }
         },
         {
@@ -105,7 +105,7 @@
             "last_commit": "2026-03-14T15:40:12Z",
             "owner": "alexfertel",
             "repo": "bulloak",
-            "stars": 351
+            "stars": 352
           }
         },
         {
@@ -245,10 +245,10 @@
                 "archived": false,
                 "id": 101585932,
                 "language": "Haskell",
-                "last_commit": "2026-08-25T06:19:25Z",
+                "last_commit": "2026-08-26T21:34:24Z",
                 "owner": "crytic",
                 "repo": "echidna",
-                "stars": 3170
+                "stars": 3171
               }
             },
             {
@@ -353,10 +353,10 @@
             "archived": false,
             "id": 64700934,
             "language": "Solidity",
-            "last_commit": "2026-08-25T18:17:57Z",
+            "last_commit": "2026-08-27T09:26:57Z",
             "owner": "OpenZeppelin",
             "repo": "openzeppelin-contracts",
-            "stars": 27234
+            "stars": 27235
           }
         },
         {
@@ -409,9 +409,16 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-26T11:25:26.834Z",
-    "original_repository": "GianfrancoBazzani/awesome-advanced-smart-contracts-testing-and-verification",
-    "original_repository_id": 720551727,
+    "last_updated": "2026-08-27T11:19:31.218Z",
+    "original_repository_info": {
+      "archived": false,
+      "id": 720551727,
+      "language": null,
+      "last_commit": "2024-07-31T17:30:03Z",
+      "owner": "GianfrancoBazzani",
+      "repo": "awesome-advanced-smart-contracts-testing-and-verification",
+      "stars": 78
+    },
     "original_repository_sha": "c3aebf235774f69b40cd74cbd31b04b6a6e2aa6a",
     "enhanced_repository": "enhansome/enhansome-advanced-smart-contracts-testing-and-verification",
     "enhanced_repository_description": null,
