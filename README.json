@@ -16,7 +16,8 @@
             "owner": "crytic",
             "repo": "echidna",
             "stars": 3171
-          }
+          },
+          "first_seen": "2026-08-28T21:19:01.248Z"
         },
         {
           "node_type": "item",
@@ -31,7 +32,8 @@
             "owner": "fuzzland",
             "repo": "ityfuzz",
             "stars": 1108
-          }
+          },
+          "first_seen": "2026-08-28T21:19:01.248Z"
         },
         {
           "node_type": "item",
@@ -46,7 +48,8 @@
             "owner": "a16z",
             "repo": "halmos",
             "stars": 1028
-          }
+          },
+          "first_seen": "2026-08-28T21:19:01.248Z"
         },
         {
           "node_type": "item",
@@ -61,7 +64,8 @@
             "owner": "nascentxyz",
             "repo": "pyrometer",
             "stars": 797
-          }
+          },
+          "first_seen": "2026-08-28T21:19:01.248Z"
         },
         {
           "node_type": "item",
@@ -76,7 +80,8 @@
             "owner": "trailofbits",
             "repo": "maat",
             "stars": 651
-          }
+          },
+          "first_seen": "2026-08-28T21:19:01.248Z"
         },
         {
           "node_type": "item",
@@ -91,7 +96,8 @@
             "owner": "crytic",
             "repo": "medusa",
             "stars": 485
-          }
+          },
+          "first_seen": "2026-08-28T21:19:01.248Z"
         },
         {
           "node_type": "item",
@@ -106,7 +112,8 @@
             "owner": "alexfertel",
             "repo": "bulloak",
             "stars": 352
-          }
+          },
+          "first_seen": "2026-08-28T21:19:01.248Z"
         },
         {
           "node_type": "item",
@@ -121,7 +128,8 @@
             "owner": "crytic",
             "repo": "etheno",
             "stars": 337
-          }
+          },
+          "first_seen": "2026-08-28T21:19:01.248Z"
         },
         {
           "node_type": "item",
@@ -136,7 +144,8 @@
             "owner": "Certora",
             "repo": "gambit",
             "stars": 209
-          }
+          },
+          "first_seen": "2026-08-28T21:19:01.248Z"
         },
         {
           "node_type": "item",
@@ -151,7 +160,8 @@
             "owner": "JoranHonig",
             "repo": "vertigo",
             "stars": 208
-          }
+          },
+          "first_seen": "2026-08-28T21:19:01.248Z"
         },
         {
           "node_type": "item",
@@ -166,7 +176,8 @@
             "owner": "Consensys",
             "repo": "evm-dafny",
             "stars": 139
-          }
+          },
+          "first_seen": "2026-08-28T21:19:01.248Z"
         },
         {
           "node_type": "item",
@@ -181,7 +192,8 @@
             "owner": "crytic",
             "repo": "fuzz-utils",
             "stars": 116
-          }
+          },
+          "first_seen": "2026-08-28T21:19:01.248Z"
         },
         {
           "node_type": "item",
@@ -196,7 +208,8 @@
             "owner": "crytic",
             "repo": "optik",
             "stars": 99
-          }
+          },
+          "first_seen": "2026-08-28T21:19:01.248Z"
         }
       ],
       "title": "Tools"
@@ -217,7 +230,8 @@
             "owner": "vnmrtz",
             "repo": "mastering-fuzzing",
             "stars": 106
-          }
+          },
+          "first_seen": "2026-08-28T21:19:01.248Z"
         },
         {
           "node_type": "item",
@@ -232,7 +246,8 @@
             "owner": "paco0x",
             "repo": "kyber-exploit-example",
             "stars": 77
-          }
+          },
+          "first_seen": "2026-08-28T21:19:01.248Z"
         },
         {
           "children": [
@@ -249,7 +264,8 @@
                 "owner": "crytic",
                 "repo": "echidna",
                 "stars": 3171
-              }
+              },
+              "first_seen": "2026-08-28T21:19:01.248Z"
             },
             {
               "node_type": "item",
@@ -264,7 +280,8 @@
                 "owner": "crytic",
                 "repo": "properties",
                 "stars": 371
-              }
+              },
+              "first_seen": "2026-08-28T21:19:01.248Z"
             },
             {
               "node_type": "item",
@@ -279,7 +296,8 @@
                 "owner": "perimetersec",
                 "repo": "public-fuzzing-campaigns-list",
                 "stars": 129
-              }
+              },
+              "first_seen": "2026-08-28T21:19:01.248Z"
             }
           ],
           "description": "Property-based testing aims to identify and test invariants. Invariants are conditions expressions that should always hold true over the course of a fuzzing campaign. Invariants are about properties of the system as a whole, rather than specific reactions to specific inputs.",
@@ -300,8 +318,9 @@
                 "last_commit": "2026-08-25T16:30:32Z",
                 "owner": "ProjectOpenSea",
                 "repo": "seaport",
-                "stars": 2256
-              }
+                "stars": 2257
+              },
+              "first_seen": "2026-08-28T21:19:01.248Z"
             },
             {
               "node_type": "item",
@@ -316,7 +335,8 @@
                 "owner": "dmfxyz",
                 "repo": "murky",
                 "stars": 516
-              }
+              },
+              "first_seen": "2026-08-28T21:19:01.248Z"
             },
             {
               "node_type": "item",
@@ -331,7 +351,8 @@
                 "owner": "NewmanXBT",
                 "repo": "differential-fuzzing",
                 "stars": 10
-              }
+              },
+              "first_seen": "2026-08-28T21:19:01.248Z"
             }
           ],
           "description": "Differential testing is used to ensure identical behavior between two or more implementations of equivalent code. Useful if you are upgrading/updating code, or have written a more optimized version but you want to verify congruence among implementations.",
@@ -353,11 +374,12 @@
             "archived": false,
             "id": 64700934,
             "language": "Solidity",
-            "last_commit": "2026-08-27T15:20:16Z",
+            "last_commit": "2026-08-28T09:07:54Z",
             "owner": "OpenZeppelin",
             "repo": "openzeppelin-contracts",
-            "stars": 27235
-          }
+            "stars": 27234
+          },
+          "first_seen": "2026-08-28T21:19:01.248Z"
         },
         {
           "node_type": "item",
@@ -372,7 +394,8 @@
             "owner": "WilfredTA",
             "repo": "formal-methods-curriculum",
             "stars": 168
-          }
+          },
+          "first_seen": "2026-08-28T21:19:01.248Z"
         },
         {
           "node_type": "item",
@@ -387,7 +410,8 @@
             "owner": "zobront",
             "repo": "halmos-solady",
             "stars": 57
-          }
+          },
+          "first_seen": "2026-08-28T21:19:01.248Z"
         },
         {
           "node_type": "item",
@@ -402,14 +426,15 @@
             "owner": "Certora",
             "repo": "ERC4626_Workshop",
             "stars": 3
-          }
+          },
+          "first_seen": "2026-08-28T21:19:01.248Z"
         }
       ],
       "title": "Formal Verification"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T20:53:30.740Z",
+    "last_updated": "2026-08-28T21:19:01.248Z",
     "original_repository_info": {
       "archived": false,
       "id": 720551727,
