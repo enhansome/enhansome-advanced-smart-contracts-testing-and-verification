@@ -10,12 +10,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Ethereum smart contract fuzzer",
+            "homepage": "https://secure-contracts.com/program-analysis/echidna/index.html",
             "id": 101585932,
             "language": "Haskell",
+            "license": "AGPL-3.0",
             "last_commit": "2026-08-27T13:12:52Z",
+            "open_issues": 102,
             "owner": "crytic",
             "repo": "echidna",
-            "stars": 3171
+            "stars": 3171,
+            "topics": [
+              "ethereum",
+              "evm",
+              "fuzzer",
+              "security",
+              "smart-contracts",
+              "solidity",
+              "testing"
+            ]
           },
           "first_seen": "2026-08-28T21:19:01.248Z"
         },
@@ -26,12 +39,28 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Blazing Fast Bytecode-Level Hybrid Fuzzer for Smart Contracts",
+            "homepage": "https://docs.ityfuzz.rs",
             "id": 557020771,
             "language": "Rust",
+            "license": "MIT",
             "last_commit": "2025-12-10T00:09:48Z",
+            "open_issues": 63,
             "owner": "fuzzland",
             "repo": "ityfuzz",
-            "stars": 1108
+            "stars": 1108,
+            "topics": [
+              "aptos",
+              "blockchain",
+              "concolic-execution",
+              "ethereum",
+              "evm",
+              "fuzzing",
+              "move",
+              "smart-contracts",
+              "solidity",
+              "sui"
+            ]
           },
           "first_seen": "2026-08-28T21:19:01.248Z"
         },
@@ -42,12 +71,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A symbolic testing tool for EVM smart contracts",
+            "homepage": null,
             "id": 577492459,
             "language": "Python",
+            "license": "AGPL-3.0",
             "last_commit": "2025-08-06T19:05:39Z",
+            "open_issues": 74,
             "owner": "a16z",
             "repo": "halmos",
-            "stars": 1028
+            "stars": 1028,
+            "topics": []
           },
           "first_seen": "2026-08-28T21:19:01.248Z"
         },
@@ -58,12 +92,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A tool for analyzing the security and parameters of a solidity smart contract",
+            "homepage": null,
             "id": 586608936,
             "language": "Rust",
+            "license": "Apache-2.0",
             "last_commit": "2025-02-14T15:41:16Z",
+            "open_issues": 15,
             "owner": "nascentxyz",
             "repo": "pyrometer",
-            "stars": 797
+            "stars": 797,
+            "topics": []
           },
           "first_seen": "2026-08-28T21:19:01.248Z"
         },
@@ -74,12 +113,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Open-source symbolic execution framework: https://maat.re",
+            "homepage": null,
             "id": 418854583,
             "language": "C++",
+            "license": "NOASSERTION",
             "last_commit": "2026-05-22T18:23:45Z",
+            "open_issues": 32,
             "owner": "trailofbits",
             "repo": "maat",
-            "stars": 651
+            "stars": 651,
+            "topics": []
           },
           "first_seen": "2026-08-28T21:19:01.248Z"
         },
@@ -90,12 +134,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Parallelized, coverage-guided, mutational Solidity smart contract fuzzing, powered by go-ethereum",
+            "homepage": "https://secure-contracts.com/program-analysis/medusa/docs/src/",
             "id": 401814297,
             "language": "Go",
+            "license": "AGPL-3.0",
             "last_commit": "2026-08-19T20:51:02Z",
+            "open_issues": 74,
             "owner": "crytic",
             "repo": "medusa",
-            "stars": 485
+            "stars": 485,
+            "topics": []
           },
           "first_seen": "2026-08-28T21:19:01.248Z"
         },
@@ -106,12 +155,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Generate tests based on the Branching Tree Technique.",
+            "homepage": "https://bulloak.dev",
             "id": 674393599,
             "language": "Rust",
+            "license": "Apache-2.0",
             "last_commit": "2026-03-14T15:40:12Z",
+            "open_issues": 14,
             "owner": "alexfertel",
             "repo": "bulloak",
-            "stars": 352
+            "stars": 352,
+            "topics": [
+              "cli",
+              "solidity",
+              "testing",
+              "tree"
+            ]
           },
           "first_seen": "2026-08-28T21:19:01.248Z"
         },
@@ -122,12 +181,24 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "Simplify Ethereum security analysis and testing",
+            "homepage": null,
             "id": 138937540,
             "language": "Python",
+            "license": "AGPL-3.0",
             "last_commit": "2025-02-14T15:58:57Z",
+            "open_issues": 37,
             "owner": "crytic",
             "repo": "etheno",
-            "stars": 337
+            "stars": 337,
+            "topics": [
+              "differential-testing",
+              "ethereum",
+              "ganache",
+              "solidity",
+              "symbolic-execution",
+              "truffle"
+            ]
           },
           "first_seen": "2026-08-28T21:19:01.248Z"
         },
@@ -138,12 +209,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Using mutations to improve specs and test suites",
+            "homepage": null,
             "id": 566004537,
             "language": "Rust",
+            "license": "MIT",
             "last_commit": "2026-08-12T19:15:15Z",
+            "open_issues": 11,
             "owner": "Certora",
             "repo": "gambit",
-            "stars": 209
+            "stars": 209,
+            "topics": []
           },
           "first_seen": "2026-08-28T21:19:01.248Z"
         },
@@ -154,12 +230,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Mutation Testing for Ethereum Smart Contracts",
+            "homepage": null,
             "id": 202979470,
             "language": "Python",
+            "license": "LGPL-3.0",
             "last_commit": "2023-11-21T01:12:29Z",
+            "open_issues": 17,
             "owner": "JoranHonig",
             "repo": "vertigo",
-            "stars": 208
+            "stars": 208,
+            "topics": [
+              "ethereum",
+              "mutation-testing",
+              "mutations",
+              "security",
+              "solidity",
+              "testing"
+            ]
           },
           "first_seen": "2026-08-28T21:19:01.248Z"
         },
@@ -170,12 +258,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "An EVM interpreter in Dafny",
+            "homepage": null,
             "id": 455364661,
             "language": "Dafny",
+            "license": "Apache-2.0",
             "last_commit": "2026-05-11T14:57:28Z",
+            "open_issues": 46,
             "owner": "Consensys",
             "repo": "evm-dafny",
-            "stars": 139
+            "stars": 139,
+            "topics": []
           },
           "first_seen": "2026-08-28T21:19:01.248Z"
         },
@@ -186,12 +279,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A tool to automatically generate Foundry unit test cases from Echidna and Medusa failed properties",
+            "homepage": null,
             "id": 739006161,
             "language": "Solidity",
+            "license": "AGPL-3.0",
             "last_commit": "2025-08-25T10:43:06Z",
+            "open_issues": 19,
             "owner": "crytic",
             "repo": "fuzz-utils",
-            "stars": 116
+            "stars": 116,
+            "topics": []
           },
           "first_seen": "2026-08-28T21:19:01.248Z"
         },
@@ -202,12 +300,25 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "Optik is a set of symbolic execution tools that assist smart-contract fuzzers",
+            "homepage": "https://github.com/crytic/optik",
             "id": 489018761,
             "language": "Python",
+            "license": "NOASSERTION",
             "last_commit": "2024-09-03T21:37:29Z",
+            "open_issues": 28,
             "owner": "crytic",
             "repo": "optik",
-            "stars": 99
+            "stars": 99,
+            "topics": [
+              "echidna",
+              "evm",
+              "fuzzing",
+              "maat",
+              "security-tools",
+              "smart-contracts",
+              "symbolic-execution"
+            ]
           },
           "first_seen": "2026-08-28T21:19:01.248Z"
         }
@@ -224,12 +335,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Practical fuzzing examples for the mastering fuzzing talk",
+            "homepage": "https://www.youtube.com/watch?v=83q14K-WNKM",
             "id": 646260779,
             "language": "Solidity",
+            "license": null,
             "last_commit": "2023-06-29T09:40:38Z",
+            "open_issues": 0,
             "owner": "vnmrtz",
             "repo": "mastering-fuzzing",
-            "stars": 106
+            "stars": 106,
+            "topics": []
           },
           "first_seen": "2026-08-28T21:19:01.248Z"
         },
@@ -240,12 +356,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "reproduce kyber-elastic exploit",
+            "homepage": null,
             "id": 722771742,
             "language": "Solidity",
+            "license": null,
             "last_commit": "2023-11-27T17:27:52Z",
+            "open_issues": 0,
             "owner": "paco0x",
             "repo": "kyber-exploit-example",
-            "stars": 77
+            "stars": 77,
+            "topics": []
           },
           "first_seen": "2026-08-28T21:19:01.248Z"
         },
@@ -258,12 +379,25 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Ethereum smart contract fuzzer",
+                "homepage": "https://secure-contracts.com/program-analysis/echidna/index.html",
                 "id": 101585932,
                 "language": "Haskell",
+                "license": "AGPL-3.0",
                 "last_commit": "2026-08-27T13:12:52Z",
+                "open_issues": 102,
                 "owner": "crytic",
                 "repo": "echidna",
-                "stars": 3171
+                "stars": 3171,
+                "topics": [
+                  "ethereum",
+                  "evm",
+                  "fuzzer",
+                  "security",
+                  "smart-contracts",
+                  "solidity",
+                  "testing"
+                ]
               },
               "first_seen": "2026-08-28T21:19:01.248Z"
             },
@@ -274,12 +408,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Pre-built security properties for common Ethereum operations",
+                "homepage": null,
                 "id": 605212739,
                 "language": "Solidity",
+                "license": "AGPL-3.0",
                 "last_commit": "2026-03-09T17:36:56Z",
+                "open_issues": 35,
                 "owner": "crytic",
                 "repo": "properties",
-                "stars": 371
+                "stars": 371,
+                "topics": []
               },
               "first_seen": "2026-08-28T21:19:01.248Z"
             },
@@ -290,12 +429,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A list of public fuzzing campaigns",
+                "homepage": null,
                 "id": 753544517,
                 "language": null,
+                "license": null,
                 "last_commit": "2026-01-24T12:39:26Z",
+                "open_issues": 0,
                 "owner": "perimetersec",
                 "repo": "public-fuzzing-campaigns-list",
-                "stars": 129
+                "stars": 129,
+                "topics": [
+                  "echidna",
+                  "evm",
+                  "foundry",
+                  "fuzzing",
+                  "medusa",
+                  "solidity"
+                ]
               },
               "first_seen": "2026-08-28T21:19:01.248Z"
             }
@@ -313,12 +464,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Seaport is a marketplace protocol for safely and efficiently buying and selling NFTs.",
+                "homepage": null,
                 "id": 450202525,
                 "language": "Solidity",
+                "license": "MIT",
                 "last_commit": "2026-08-25T16:30:32Z",
+                "open_issues": 10,
                 "owner": "ProjectOpenSea",
                 "repo": "seaport",
-                "stars": 2257
+                "stars": 2257,
+                "topics": []
               },
               "first_seen": "2026-08-28T21:19:01.248Z"
             },
@@ -329,12 +485,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Merkle Proof Generator and Validator in Solidity",
+                "homepage": null,
                 "id": 477559097,
                 "language": "Solidity",
+                "license": "MIT",
                 "last_commit": "2025-02-27T22:13:09Z",
+                "open_issues": 10,
                 "owner": "dmfxyz",
                 "repo": "murky",
-                "stars": 516
+                "stars": 516,
+                "topics": [
+                  "ethereum",
+                  "merkle",
+                  "merkle-proof",
+                  "nft",
+                  "solidity"
+                ]
               },
               "first_seen": "2026-08-28T21:19:01.248Z"
             },
@@ -345,12 +512,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "This is a differential fuzzing repo that aims to check the different implementations of solidity math libraries are done correctly by fuzzing against each other. ",
+                "homepage": null,
                 "id": 632780428,
                 "language": "Solidity",
+                "license": "MIT",
                 "last_commit": "2023-06-28T16:06:34Z",
+                "open_issues": 0,
                 "owner": "NewmanXBT",
                 "repo": "differential-fuzzing",
-                "stars": 10
+                "stars": 10,
+                "topics": [
+                  "evm",
+                  "foundry",
+                  "fuzzing"
+                ]
               },
               "first_seen": "2026-08-28T21:19:01.248Z"
             }
@@ -372,12 +548,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "OpenZeppelin Contracts is a library for secure smart contract development.",
+            "homepage": "https://openzeppelin.com/contracts",
             "id": 64700934,
             "language": "Solidity",
+            "license": "MIT",
             "last_commit": "2026-08-28T09:07:54Z",
+            "open_issues": 374,
             "owner": "OpenZeppelin",
             "repo": "openzeppelin-contracts",
-            "stars": 27234
+            "stars": 27234,
+            "topics": [
+              "ethereum",
+              "evm",
+              "security",
+              "smart-contracts",
+              "solidity"
+            ]
           },
           "first_seen": "2026-08-28T21:19:01.248Z"
         },
@@ -388,12 +575,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Formal methods training program with an emphasis on software in the blockchain & decentralized financed (DeFi) industry",
+            "homepage": null,
             "id": 445009171,
             "language": "Jupyter Notebook",
+            "license": "MIT",
             "last_commit": "2022-07-14T00:21:43Z",
+            "open_issues": 1,
             "owner": "WilfredTA",
             "repo": "formal-methods-curriculum",
-            "stars": 168
+            "stars": 168,
+            "topics": []
           },
           "first_seen": "2026-08-28T21:19:01.248Z"
         },
@@ -404,12 +596,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Formally verifying consistency between Solmate and Solady using Halmos",
+            "homepage": null,
             "id": 611065930,
             "language": "Solidity",
+            "license": null,
             "last_commit": "2024-08-22T03:48:49Z",
+            "open_issues": 0,
             "owner": "zobront",
             "repo": "halmos-solady",
-            "stars": 57
+            "stars": 57,
+            "topics": []
           },
           "first_seen": "2026-08-28T21:19:01.248Z"
         },
@@ -420,12 +617,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Repository for the specifications for the Certora workshop on ERC4626 at TrustX @ Istanbul 2023.",
+            "homepage": null,
             "id": 718024615,
             "language": "Solidity",
+            "license": null,
             "last_commit": "2023-12-11T12:33:01Z",
+            "open_issues": 0,
             "owner": "Certora",
             "repo": "ERC4626_Workshop",
-            "stars": 3
+            "stars": 3,
+            "topics": []
           },
           "first_seen": "2026-08-28T21:19:01.248Z"
         }
@@ -434,15 +636,25 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-28T21:19:01.248Z",
+    "last_updated": "2026-08-29T05:01:45.031Z",
     "original_repository_info": {
       "archived": false,
+      "description": "A curated collection of tools, frameworks, and methodologies for testing and verifying Solidity smart contracts.",
+      "homepage": null,
       "id": 720551727,
       "language": null,
+      "license": null,
       "last_commit": "2024-07-31T17:30:03Z",
+      "open_issues": 15,
       "owner": "GianfrancoBazzani",
       "repo": "awesome-advanced-smart-contracts-testing-and-verification",
-      "stars": 78
+      "stars": 78,
+      "topics": [
+        "awesome",
+        "awesome-list",
+        "blockchain-security",
+        "ethereum"
+      ]
     },
     "original_repository_sha": "c3aebf235774f69b40cd74cbd31b04b6a6e2aa6a",
     "enhanced_repository": "enhansome/enhansome-advanced-smart-contracts-testing-and-verification",
