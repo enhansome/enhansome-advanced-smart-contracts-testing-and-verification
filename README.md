@@ -19,8 +19,8 @@
 
 Arsenal of fuzzing and verification tools, tailor-made for probing and dissecting the inner workings of smart contracts.
 
-* [**Echinda | Ethereum smart contract Property-based fuzzer**](https://github.com/crytic/echidna/) ⭐ 3,172 | 🐛 102 | 🌐 Haskell | 📅 2026-08-27
-* [**ItyFuzz | EVM and MoveVM hybrid fuzzer that combines symbolic execution and fuzzing**](https://github.com/fuzzland/ityfuzz) ⭐ 1,108 | 🐛 63 | 🌐 Rust | 📅 2025-12-10
+* [**Echinda | Ethereum smart contract Property-based fuzzer**](https://github.com/crytic/echidna/) ⭐ 3,173 | 🐛 101 | 🌐 Haskell | 📅 2026-08-31
+* [**ItyFuzz | EVM and MoveVM hybrid fuzzer that combines symbolic execution and fuzzing**](https://github.com/fuzzland/ityfuzz) ⭐ 1,109 | 🐛 63 | 🌐 Rust | 📅 2025-12-10
 * [**Halmos | Symbolic testing tool for EVM smart contracts**](https://github.com/a16z/halmos) ⭐ 1,028 | 🐛 74 | 🌐 Python | 📅 2025-08-06
 * [**Pyrometer | symbolic execution, abstract interpretation, and static analysis**](https://github.com/nascentxyz/pyrometer/tree/master) ⭐ 797 | 🐛 15 | 🌐 Rust | 📅 2025-02-14
 * [**Maat | Dynamic Symbolic Execution and Binary Analysis framework**](https://github.com/trailofbits/maat) ⭐ 651 | 🐛 32 | 🌐 C++ | 📅 2026-05-22
@@ -52,7 +52,7 @@ Arsenal of fuzzing and verification tools, tailor-made for probing and dissectin
 
 **Property-based** testing aims to identify and test **invariants**. Invariants are conditions expressions that should always hold true over the course of a fuzzing campaign. Invariants are about properties of the system as a whole, rather than specific reactions to specific inputs.
 
-* [**Public Use of Echidna**](https://github.com/crytic/echidna?tab=readme-ov-file#public-use-of-echidna) ⭐ 3,172 | 🐛 102 | 🌐 Haskell | 📅 2026-08-27
+* [**Public Use of Echidna**](https://github.com/crytic/echidna?tab=readme-ov-file#public-use-of-echidna) ⭐ 3,173 | 🐛 101 | 🌐 Haskell | 📅 2026-08-31
 * [**Trail of Bits pre-defined invariants**](https://github.com/crytic/properties) ⭐ 371 | 🐛 35 | 🌐 Solidity | 📅 2026-03-09
 * [**Perimetersec Public Fuzzing Campaigns List**](https://github.com/perimetersec/public-fuzzing-campaigns-list) ⭐ 129 | 🐛 0 | 📅 2026-01-24
 * [**Trail of Bits Echidna Tutorials**](https://secure-contracts.com/program-analysis/echidna/index.html)
@@ -81,7 +81,7 @@ Arsenal of fuzzing and verification tools, tailor-made for probing and dissectin
 
 **Formal Verification** is an approach to assessing the correctness of software by checking whether a formal model of the program matches the formal specification. Unlike testing, formal verification can verify a smart contract's execution satisfies a formal specification for all executions without needing to execute it with sample data.
 
-* [**Certora Formal Verification of Openzeppelin contracts**](https://github.com/OpenZeppelin/openzeppelin-contracts/blob/master/certora/README.md) ⭐ 27,235 | 🐛 374 | 🌐 Solidity | 📅 2026-08-28
+* [**Certora Formal Verification of Openzeppelin contracts**](https://github.com/OpenZeppelin/openzeppelin-contracts/blob/master/certora/README.md) ⭐ 27,235 | 🐛 375 | 🌐 Solidity | 📅 2026-08-28
 * [**WilfredTA formal-methods-curriculum**](https://github.com/WilfredTA/formal-methods-curriculum/tree/master) ⭐ 168 | 🐛 1 | 🌐 Jupyter Notebook | 📅 2022-07-14
 * [**Using Halmos to Formally Verify Solady's FixedPointMathLib**](https://github.com/zobront/halmos-solady) ⭐ 57 | 🐛 0 | 🌐 Solidity | 📅 2024-08-22
 * [**Certora ERC4626 TrustX 2023 workshop**](https://github.com/Certora/ERC4626_Workshop) ⭐ 3 | 🐛 0 | 🌐 Solidity | 📅 2023-12-11
@@ -113,4 +113,4 @@ Contributions welcome! Read the [contribution guidelines](contributing.md) first
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-30._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-31._
