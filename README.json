@@ -15,8 +15,8 @@
             "id": 101585932,
             "language": "Haskell",
             "license": "AGPL-3.0",
-            "last_commit": "2026-09-02T21:35:09Z",
-            "open_issues": 106,
+            "last_commit": "2026-09-03T23:13:50Z",
+            "open_issues": 107,
             "owner": "crytic",
             "repo": "echidna",
             "stars": 3173,
@@ -190,7 +190,7 @@
             "open_issues": 37,
             "owner": "crytic",
             "repo": "etheno",
-            "stars": 337,
+            "stars": 336,
             "topics": [
               "differential-testing",
               "ethereum",
@@ -384,8 +384,8 @@
                 "id": 101585932,
                 "language": "Haskell",
                 "license": "AGPL-3.0",
-                "last_commit": "2026-09-02T21:35:09Z",
-                "open_issues": 106,
+                "last_commit": "2026-09-03T23:13:50Z",
+                "open_issues": 107,
                 "owner": "crytic",
                 "repo": "echidna",
                 "stars": 3173,
@@ -473,7 +473,7 @@
                 "open_issues": 9,
                 "owner": "ProjectOpenSea",
                 "repo": "seaport",
-                "stars": 2257,
+                "stars": 2256,
                 "topics": []
               },
               "first_seen": "2026-08-28T21:19:01.248Z"
@@ -553,11 +553,11 @@
             "id": 64700934,
             "language": "Solidity",
             "license": "MIT",
-            "last_commit": "2026-09-03T08:31:01Z",
-            "open_issues": 374,
+            "last_commit": "2026-09-04T14:37:12Z",
+            "open_issues": 365,
             "owner": "OpenZeppelin",
             "repo": "openzeppelin-contracts",
-            "stars": 27231,
+            "stars": 27230,
             "topics": [
               "ethereum",
               "evm",
@@ -636,7 +636,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-03T14:51:14.767Z",
+    "last_updated": "2026-09-04T14:45:14.425Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated collection of tools, frameworks, and methodologies for testing and verifying Solidity smart contracts.",
