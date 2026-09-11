@@ -15,11 +15,11 @@
             "id": 101585932,
             "language": "Haskell",
             "license": "AGPL-3.0",
-            "last_commit": "2026-09-10T13:34:02Z",
+            "last_commit": "2026-09-10T19:07:35Z",
             "open_issues": 113,
             "owner": "crytic",
             "repo": "echidna",
-            "stars": 3177,
+            "stars": 3176,
             "topics": [
               "ethereum",
               "evm",
@@ -80,7 +80,7 @@
             "open_issues": 79,
             "owner": "a16z",
             "repo": "halmos",
-            "stars": 1028,
+            "stars": 1030,
             "topics": []
           },
           "first_seen": "2026-08-28T21:19:01.248Z"
@@ -143,7 +143,7 @@
             "open_issues": 75,
             "owner": "crytic",
             "repo": "medusa",
-            "stars": 487,
+            "stars": 486,
             "topics": []
           },
           "first_seen": "2026-08-28T21:19:01.248Z"
@@ -384,11 +384,11 @@
                 "id": 101585932,
                 "language": "Haskell",
                 "license": "AGPL-3.0",
-                "last_commit": "2026-09-10T13:34:02Z",
+                "last_commit": "2026-09-10T19:07:35Z",
                 "open_issues": 113,
                 "owner": "crytic",
                 "repo": "echidna",
-                "stars": 3177,
+                "stars": 3176,
                 "topics": [
                   "ethereum",
                   "evm",
@@ -494,7 +494,7 @@
                 "open_issues": 11,
                 "owner": "dmfxyz",
                 "repo": "murky",
-                "stars": 517,
+                "stars": 516,
                 "topics": [
                   "ethereum",
                   "merkle",
@@ -553,11 +553,11 @@
             "id": 64700934,
             "language": "Solidity",
             "license": "MIT",
-            "last_commit": "2026-09-10T14:02:18Z",
-            "open_issues": 376,
+            "last_commit": "2026-09-11T14:40:56Z",
+            "open_issues": 372,
             "owner": "OpenZeppelin",
             "repo": "openzeppelin-contracts",
-            "stars": 27234,
+            "stars": 27238,
             "topics": [
               "ethereum",
               "evm",
@@ -636,7 +636,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-10T14:46:11.035Z",
+    "last_updated": "2026-09-11T14:49:28.779Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated collection of tools, frameworks, and methodologies for testing and verifying Solidity smart contracts.",
