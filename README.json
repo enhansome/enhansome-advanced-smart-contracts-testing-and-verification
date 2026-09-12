@@ -80,7 +80,7 @@
             "open_issues": 79,
             "owner": "a16z",
             "repo": "halmos",
-            "stars": 1030,
+            "stars": 1031,
             "topics": []
           },
           "first_seen": "2026-08-28T21:19:01.248Z"
@@ -143,7 +143,7 @@
             "open_issues": 75,
             "owner": "crytic",
             "repo": "medusa",
-            "stars": 486,
+            "stars": 487,
             "topics": []
           },
           "first_seen": "2026-08-28T21:19:01.248Z"
@@ -553,11 +553,11 @@
             "id": 64700934,
             "language": "Solidity",
             "license": "MIT",
-            "last_commit": "2026-09-11T14:40:56Z",
-            "open_issues": 372,
+            "last_commit": "2026-09-11T21:54:48Z",
+            "open_issues": 374,
             "owner": "OpenZeppelin",
             "repo": "openzeppelin-contracts",
-            "stars": 27238,
+            "stars": 27241,
             "topics": [
               "ethereum",
               "evm",
@@ -636,7 +636,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-11T14:49:28.779Z",
+    "last_updated": "2026-09-12T13:50:31.224Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated collection of tools, frameworks, and methodologies for testing and verifying Solidity smart contracts.",
