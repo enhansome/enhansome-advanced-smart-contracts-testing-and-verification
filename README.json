@@ -16,10 +16,10 @@
             "language": "Haskell",
             "license": "AGPL-3.0",
             "last_commit": "2026-09-10T19:07:35Z",
-            "open_issues": 112,
+            "open_issues": 111,
             "owner": "crytic",
             "repo": "echidna",
-            "stars": 3175,
+            "stars": 3176,
             "topics": [
               "ethereum",
               "evm",
@@ -385,10 +385,10 @@
                 "language": "Haskell",
                 "license": "AGPL-3.0",
                 "last_commit": "2026-09-10T19:07:35Z",
-                "open_issues": 112,
+                "open_issues": 111,
                 "owner": "crytic",
                 "repo": "echidna",
-                "stars": 3175,
+                "stars": 3176,
                 "topics": [
                   "ethereum",
                   "evm",
@@ -553,11 +553,11 @@
             "id": 64700934,
             "language": "Solidity",
             "license": "MIT",
-            "last_commit": "2026-09-14T12:22:01Z",
-            "open_issues": 376,
+            "last_commit": "2026-09-15T08:23:44Z",
+            "open_issues": 380,
             "owner": "OpenZeppelin",
             "repo": "openzeppelin-contracts",
-            "stars": 27238,
+            "stars": 27242,
             "topics": [
               "ethereum",
               "evm",
@@ -636,7 +636,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-14T16:45:56.056Z",
+    "last_updated": "2026-09-15T15:25:43.784Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated collection of tools, frameworks, and methodologies for testing and verifying Solidity smart contracts.",
