@@ -239,7 +239,7 @@
             "open_issues": 17,
             "owner": "JoranHonig",
             "repo": "vertigo",
-            "stars": 208,
+            "stars": 209,
             "topics": [
               "ethereum",
               "mutation-testing",
@@ -473,7 +473,7 @@
                 "open_issues": 10,
                 "owner": "ProjectOpenSea",
                 "repo": "seaport",
-                "stars": 2255,
+                "stars": 2254,
                 "topics": []
               },
               "first_seen": "2026-08-28T21:19:01.248Z"
@@ -553,11 +553,11 @@
             "id": 64700934,
             "language": "Solidity",
             "license": "MIT",
-            "last_commit": "2026-09-21T13:48:09Z",
+            "last_commit": "2026-09-22T15:18:24Z",
             "open_issues": 357,
             "owner": "OpenZeppelin",
             "repo": "openzeppelin-contracts",
-            "stars": 27247,
+            "stars": 27249,
             "topics": [
               "ethereum",
               "evm",
@@ -636,7 +636,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-21T16:45:50.673Z",
+    "last_updated": "2026-09-22T15:23:34.515Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated collection of tools, frameworks, and methodologies for testing and verifying Solidity smart contracts.",
