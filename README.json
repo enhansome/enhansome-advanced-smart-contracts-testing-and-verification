@@ -19,7 +19,7 @@
             "open_issues": 114,
             "owner": "crytic",
             "repo": "echidna",
-            "stars": 3180,
+            "stars": 3181,
             "topics": [
               "ethereum",
               "evm",
@@ -143,7 +143,7 @@
             "open_issues": 78,
             "owner": "crytic",
             "repo": "medusa",
-            "stars": 486,
+            "stars": 487,
             "topics": []
           },
           "first_seen": "2026-08-28T21:19:01.248Z"
@@ -218,7 +218,7 @@
             "open_issues": 11,
             "owner": "Certora",
             "repo": "gambit",
-            "stars": 210,
+            "stars": 211,
             "topics": []
           },
           "first_seen": "2026-08-28T21:19:01.248Z"
@@ -267,7 +267,7 @@
             "open_issues": 46,
             "owner": "Consensys-Incorporated",
             "repo": "evm-dafny",
-            "stars": 139,
+            "stars": 140,
             "topics": []
           },
           "first_seen": "2026-08-28T21:19:01.248Z"
@@ -388,7 +388,7 @@
                 "open_issues": 114,
                 "owner": "crytic",
                 "repo": "echidna",
-                "stars": 3180,
+                "stars": 3181,
                 "topics": [
                   "ethereum",
                   "evm",
@@ -473,7 +473,7 @@
                 "open_issues": 10,
                 "owner": "ProjectOpenSea",
                 "repo": "seaport",
-                "stars": 2254,
+                "stars": 2253,
                 "topics": []
               },
               "first_seen": "2026-08-28T21:19:01.248Z"
@@ -553,11 +553,11 @@
             "id": 64700934,
             "language": "Solidity",
             "license": "MIT",
-            "last_commit": "2026-09-22T15:18:24Z",
-            "open_issues": 357,
+            "last_commit": "2026-09-23T11:47:48Z",
+            "open_issues": 358,
             "owner": "OpenZeppelin",
             "repo": "openzeppelin-contracts",
-            "stars": 27249,
+            "stars": 27253,
             "topics": [
               "ethereum",
               "evm",
@@ -636,7 +636,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-22T15:23:34.515Z",
+    "last_updated": "2026-09-23T15:16:08.162Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated collection of tools, frameworks, and methodologies for testing and verifying Solidity smart contracts.",
