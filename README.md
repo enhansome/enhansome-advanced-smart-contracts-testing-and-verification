@@ -19,9 +19,9 @@
 
 Arsenal of fuzzing and verification tools, tailor-made for probing and dissecting the inner workings of smart contracts.
 
-* [**Echinda | Ethereum smart contract Property-based fuzzer**](https://github.com/crytic/echidna/) ⭐ 3,181 | 🐛 113 | 🌐 Haskell | 📅 2026-09-23
+* [**Echinda | Ethereum smart contract Property-based fuzzer**](https://github.com/crytic/echidna/) ⭐ 3,182 | 🐛 113 | 🌐 Haskell | 📅 2026-09-23
 * [**ItyFuzz | EVM and MoveVM hybrid fuzzer that combines symbolic execution and fuzzing**](https://github.com/fuzzland/ityfuzz) ⭐ 1,116 | 🐛 63 | 🌐 Rust | 📅 2025-12-10
-* [**Halmos | Symbolic testing tool for EVM smart contracts**](https://github.com/a16z/halmos) ⭐ 1,032 | 🐛 79 | 🌐 Python | 📅 2025-08-06
+* [**Halmos | Symbolic testing tool for EVM smart contracts**](https://github.com/a16z/halmos) ⭐ 1,033 | 🐛 79 | 🌐 Python | 📅 2025-08-06
 * [**Pyrometer | symbolic execution, abstract interpretation, and static analysis**](https://github.com/nascentxyz/pyrometer/tree/master) ⭐ 797 | 🐛 15 | 🌐 Rust | 📅 2025-02-14
 * [**Maat | Dynamic Symbolic Execution and Binary Analysis framework**](https://github.com/trailofbits/maat) ⭐ 651 | 🐛 32 | 🌐 C++ | 📅 2026-05-22
 * [**Medusa | Property-based fuzzer based on Echidna written in go**](https://github.com/crytic/medusa) ⭐ 487 | 🐛 78 | 🌐 Go | 📅 2026-09-09
@@ -52,7 +52,7 @@ Arsenal of fuzzing and verification tools, tailor-made for probing and dissectin
 
 **Property-based** testing aims to identify and test **invariants**. Invariants are conditions expressions that should always hold true over the course of a fuzzing campaign. Invariants are about properties of the system as a whole, rather than specific reactions to specific inputs.
 
-* [**Public Use of Echidna**](https://github.com/crytic/echidna?tab=readme-ov-file#public-use-of-echidna) ⭐ 3,181 | 🐛 113 | 🌐 Haskell | 📅 2026-09-23
+* [**Public Use of Echidna**](https://github.com/crytic/echidna?tab=readme-ov-file#public-use-of-echidna) ⭐ 3,182 | 🐛 113 | 🌐 Haskell | 📅 2026-09-23
 * [**Trail of Bits pre-defined invariants**](https://github.com/crytic/properties) ⭐ 371 | 🐛 35 | 🌐 Solidity | 📅 2026-03-09
 * [**Perimetersec Public Fuzzing Campaigns List**](https://github.com/perimetersec/public-fuzzing-campaigns-list) ⭐ 129 | 🐛 0 | 📅 2026-01-24
 * [**Trail of Bits Echidna Tutorials**](https://secure-contracts.com/program-analysis/echidna/index.html)
@@ -113,4 +113,4 @@ Contributions welcome! Read the [contribution guidelines](contributing.md) first
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-25._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-26._
