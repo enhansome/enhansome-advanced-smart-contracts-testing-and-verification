@@ -21,7 +21,7 @@ Arsenal of fuzzing and verification tools, tailor-made for probing and dissectin
 
 * [**Echinda | Ethereum smart contract Property-based fuzzer**](https://github.com/crytic/echidna/) ⭐ 3,185 | 🐛 109 | 🌐 Haskell | 📅 2026-09-30
 * [**ItyFuzz | EVM and MoveVM hybrid fuzzer that combines symbolic execution and fuzzing**](https://github.com/fuzzland/ityfuzz) ⭐ 1,117 | 🐛 63 | 🌐 Rust | 📅 2025-12-10
-* [**Halmos | Symbolic testing tool for EVM smart contracts**](https://github.com/a16z/halmos) ⭐ 1,033 | 🐛 79 | 🌐 Python | 📅 2025-08-06
+* [**Halmos | Symbolic testing tool for EVM smart contracts**](https://github.com/a16z/halmos) ⭐ 1,033 | 🐛 80 | 🌐 Python | 📅 2025-08-06
 * [**Pyrometer | symbolic execution, abstract interpretation, and static analysis**](https://github.com/nascentxyz/pyrometer/tree/master) ⭐ 797 | 🐛 15 | 🌐 Rust | 📅 2025-02-14
 * [**Maat | Dynamic Symbolic Execution and Binary Analysis framework**](https://github.com/trailofbits/maat) ⭐ 651 | 🐛 32 | 🌐 C++ | 📅 2026-05-22
 * [**Medusa | Property-based fuzzer based on Echidna written in go**](https://github.com/crytic/medusa) ⭐ 490 | 🐛 78 | 🌐 Go | 📅 2026-09-09
