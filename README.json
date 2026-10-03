@@ -6,7 +6,7 @@
         {
           "node_type": "item",
           "title": "Echinda | Ethereum smart contract Property-based fuzzer",
-          "description": null,
+          "description": "crytic/echidna",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -19,7 +19,7 @@
             "open_issues": 109,
             "owner": "crytic",
             "repo": "echidna",
-            "stars": 3184,
+            "stars": 3185,
             "topics": [
               "ethereum",
               "evm",
@@ -35,7 +35,7 @@
         {
           "node_type": "item",
           "title": "ItyFuzz | EVM and MoveVM hybrid fuzzer that combines symbolic execution and fuzzing",
-          "description": null,
+          "description": "fuzzland/ityfuzz",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -67,7 +67,7 @@
         {
           "node_type": "item",
           "title": "Halmos | Symbolic testing tool for EVM smart contracts",
-          "description": null,
+          "description": "a16z/halmos",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -88,7 +88,7 @@
         {
           "node_type": "item",
           "title": "Pyrometer | symbolic execution, abstract interpretation, and static analysis",
-          "description": null,
+          "description": "nascentxyz/pyrometer",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -109,7 +109,7 @@
         {
           "node_type": "item",
           "title": "Maat | Dynamic Symbolic Execution and Binary Analysis framework",
-          "description": null,
+          "description": "trailofbits/maat",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -130,7 +130,7 @@
         {
           "node_type": "item",
           "title": "Medusa | Property-based fuzzer based on Echidna written in go",
-          "description": null,
+          "description": "crytic/medusa",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -151,7 +151,7 @@
         {
           "node_type": "item",
           "title": "Bulloak | Solidity test generator based on the Branching Tree Technique",
-          "description": null,
+          "description": "alexfertel/bulloak",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -177,7 +177,7 @@
         {
           "node_type": "item",
           "title": "Etheno | JSON RPC multiplexer, analysis tool wrapper, test integration tool",
-          "description": null,
+          "description": "crytic/etheno",
           "children": [],
           "repo_info": {
             "archived": true,
@@ -205,7 +205,7 @@
         {
           "node_type": "item",
           "title": "Gambit | Solidity mutation system",
-          "description": null,
+          "description": "Certora/gambit",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -226,7 +226,7 @@
         {
           "node_type": "item",
           "title": "Vertigo-rs | Ethereum smart contract mutation testing framework",
-          "description": null,
+          "description": "JoranHonig/vertigo",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -254,7 +254,7 @@
         {
           "node_type": "item",
           "title": "Dafny-EVM | functional specification of the Ethereum Virtual Machine in Dafny",
-          "description": null,
+          "description": "Consensys-Incorporated/evm-dafny",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -275,7 +275,7 @@
         {
           "node_type": "item",
           "title": "Fuzz-utils | Tool for generating Foundry unit tests from smart contract fuzzer failed properties",
-          "description": null,
+          "description": "crytic/fuzz-utils",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -296,7 +296,7 @@
         {
           "node_type": "item",
           "title": "Optik | Echidna + Maat coupling for coverage analysis driven Fuzzing",
-          "description": null,
+          "description": "crytic/optik",
           "children": [],
           "repo_info": {
             "archived": true,
@@ -352,7 +352,7 @@
         {
           "node_type": "item",
           "title": "@paco0x Kyber Network exploit reproduction with Fuzzing",
-          "description": null,
+          "description": "paco0x/kyber-exploit-example",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -375,7 +375,7 @@
             {
               "node_type": "item",
               "title": "Public Use of Echidna",
-              "description": null,
+              "description": "crytic/echidna",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -388,7 +388,7 @@
                 "open_issues": 109,
                 "owner": "crytic",
                 "repo": "echidna",
-                "stars": 3184,
+                "stars": 3185,
                 "topics": [
                   "ethereum",
                   "evm",
@@ -404,7 +404,7 @@
             {
               "node_type": "item",
               "title": "Trail of Bits pre-defined invariants",
-              "description": null,
+              "description": "crytic/properties",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -425,7 +425,7 @@
             {
               "node_type": "item",
               "title": "Perimetersec Public Fuzzing Campaigns List",
-              "description": null,
+              "description": "perimetersec/public-fuzzing-campaigns-list",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -460,7 +460,7 @@
             {
               "node_type": "item",
               "title": "Seaport | Discussion #809 Understanding the \"DifferentialTest\" test contract",
-              "description": null,
+              "description": "ProjectOpenSea/seaport",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -481,7 +481,7 @@
             {
               "node_type": "item",
               "title": "Murky Merkle Tree DifferentialTests.t.sol",
-              "description": null,
+              "description": "dmfxyz/murky",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -508,7 +508,7 @@
             {
               "node_type": "item",
               "title": "EnbangWu Differential Fuzzing of solidity Fixed-point libraries",
-              "description": null,
+              "description": "NewmanXBT/differential-fuzzing",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -544,7 +544,7 @@
         {
           "node_type": "item",
           "title": "Certora Formal Verification of Openzeppelin contracts",
-          "description": null,
+          "description": "OpenZeppelin/openzeppelin-contracts",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -557,7 +557,7 @@
             "open_issues": 358,
             "owner": "OpenZeppelin",
             "repo": "openzeppelin-contracts",
-            "stars": 27263,
+            "stars": 27266,
             "topics": [
               "ethereum",
               "evm",
@@ -571,7 +571,7 @@
         {
           "node_type": "item",
           "title": "WilfredTA formal-methods-curriculum",
-          "description": null,
+          "description": "WilfredTA/formal-methods-curriculum",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -592,7 +592,7 @@
         {
           "node_type": "item",
           "title": "Using Halmos to Formally Verify Solady's FixedPointMathLib",
-          "description": null,
+          "description": "zobront/halmos-solady",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -613,7 +613,7 @@
         {
           "node_type": "item",
           "title": "Certora ERC4626 TrustX 2023 workshop",
-          "description": null,
+          "description": "Certora/ERC4626_Workshop",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -636,7 +636,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-02T16:28:06.236Z",
+    "last_updated": "2026-10-03T04:22:04.667Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated collection of tools, frameworks, and methodologies for testing and verifying Solidity smart contracts.",
