@@ -494,7 +494,7 @@
                 "open_issues": 11,
                 "owner": "dmfxyz",
                 "repo": "murky",
-                "stars": 516,
+                "stars": 515,
                 "topics": [
                   "ethereum",
                   "merkle",
@@ -557,7 +557,7 @@
             "open_issues": 362,
             "owner": "OpenZeppelin",
             "repo": "openzeppelin-contracts",
-            "stars": 27269,
+            "stars": 27268,
             "topics": [
               "ethereum",
               "evm",
@@ -636,7 +636,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-09T17:17:31.840Z",
+    "last_updated": "2026-10-10T16:05:28.923Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated collection of tools, frameworks, and methodologies for testing and verifying Solidity smart contracts.",
