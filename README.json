@@ -140,7 +140,7 @@
             "language": "Go",
             "license": "AGPL-3.0",
             "last_commit": "2026-09-09T18:24:42Z",
-            "open_issues": 80,
+            "open_issues": 79,
             "owner": "crytic",
             "repo": "medusa",
             "stars": 491,
@@ -469,8 +469,8 @@
                 "id": 450202525,
                 "language": "Solidity",
                 "license": "MIT",
-                "last_commit": "2026-10-12T23:20:31Z",
-                "open_issues": 10,
+                "last_commit": "2026-10-14T06:28:40Z",
+                "open_issues": 11,
                 "owner": "ProjectOpenSea",
                 "repo": "seaport",
                 "stars": 2259,
@@ -553,11 +553,11 @@
             "id": 64700934,
             "language": "Solidity",
             "license": "MIT",
-            "last_commit": "2026-10-13T17:14:42Z",
+            "last_commit": "2026-10-14T10:47:21Z",
             "open_issues": 360,
             "owner": "OpenZeppelin",
             "repo": "openzeppelin-contracts",
-            "stars": 27279,
+            "stars": 27282,
             "topics": [
               "ethereum",
               "evm",
@@ -636,7 +636,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-13T17:55:08.007Z",
+    "last_updated": "2026-10-14T15:40:41.905Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated collection of tools, frameworks, and methodologies for testing and verifying Solidity smart contracts.",
