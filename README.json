@@ -19,7 +19,7 @@
             "open_issues": 105,
             "owner": "crytic",
             "repo": "echidna",
-            "stars": 3185,
+            "stars": 3186,
             "topics": [
               "ethereum",
               "evm",
@@ -80,7 +80,7 @@
             "open_issues": 85,
             "owner": "a16z",
             "repo": "halmos",
-            "stars": 1034,
+            "stars": 1035,
             "topics": []
           },
           "first_seen": "2026-08-28T21:19:01.248Z"
@@ -143,7 +143,7 @@
             "open_issues": 79,
             "owner": "crytic",
             "repo": "medusa",
-            "stars": 492,
+            "stars": 493,
             "topics": []
           },
           "first_seen": "2026-08-28T21:19:01.248Z"
@@ -388,7 +388,7 @@
                 "open_issues": 105,
                 "owner": "crytic",
                 "repo": "echidna",
-                "stars": 3185,
+                "stars": 3186,
                 "topics": [
                   "ethereum",
                   "evm",
@@ -469,8 +469,8 @@
                 "id": 450202525,
                 "language": "Solidity",
                 "license": "MIT",
-                "last_commit": "2026-10-14T06:28:40Z",
-                "open_issues": 12,
+                "last_commit": "2026-10-16T11:49:54Z",
+                "open_issues": 13,
                 "owner": "ProjectOpenSea",
                 "repo": "seaport",
                 "stars": 2259,
@@ -553,11 +553,11 @@
             "id": 64700934,
             "language": "Solidity",
             "license": "MIT",
-            "last_commit": "2026-10-15T09:12:10Z",
-            "open_issues": 359,
+            "last_commit": "2026-10-16T13:47:55Z",
+            "open_issues": 355,
             "owner": "OpenZeppelin",
             "repo": "openzeppelin-contracts",
-            "stars": 27283,
+            "stars": 27288,
             "topics": [
               "ethereum",
               "evm",
@@ -636,7 +636,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-15T15:28:37.935Z",
+    "last_updated": "2026-10-16T15:09:16.768Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated collection of tools, frameworks, and methodologies for testing and verifying Solidity smart contracts.",
