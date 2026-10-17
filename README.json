@@ -19,7 +19,7 @@
             "open_issues": 105,
             "owner": "crytic",
             "repo": "echidna",
-            "stars": 3186,
+            "stars": 3185,
             "topics": [
               "ethereum",
               "evm",
@@ -80,7 +80,7 @@
             "open_issues": 85,
             "owner": "a16z",
             "repo": "halmos",
-            "stars": 1035,
+            "stars": 1034,
             "topics": []
           },
           "first_seen": "2026-08-28T21:19:01.248Z"
@@ -143,7 +143,7 @@
             "open_issues": 79,
             "owner": "crytic",
             "repo": "medusa",
-            "stars": 493,
+            "stars": 494,
             "topics": []
           },
           "first_seen": "2026-08-28T21:19:01.248Z"
@@ -164,7 +164,7 @@
             "open_issues": 14,
             "owner": "alexfertel",
             "repo": "bulloak",
-            "stars": 351,
+            "stars": 352,
             "topics": [
               "cli",
               "solidity",
@@ -388,7 +388,7 @@
                 "open_issues": 105,
                 "owner": "crytic",
                 "repo": "echidna",
-                "stars": 3186,
+                "stars": 3185,
                 "topics": [
                   "ethereum",
                   "evm",
@@ -553,11 +553,11 @@
             "id": 64700934,
             "language": "Solidity",
             "license": "MIT",
-            "last_commit": "2026-10-16T13:47:55Z",
-            "open_issues": 355,
+            "last_commit": "2026-10-16T15:11:57Z",
+            "open_issues": 353,
             "owner": "OpenZeppelin",
             "repo": "openzeppelin-contracts",
-            "stars": 27288,
+            "stars": 27289,
             "topics": [
               "ethereum",
               "evm",
@@ -636,7 +636,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-16T15:09:16.768Z",
+    "last_updated": "2026-10-17T14:02:20.161Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated collection of tools, frameworks, and methodologies for testing and verifying Solidity smart contracts.",
