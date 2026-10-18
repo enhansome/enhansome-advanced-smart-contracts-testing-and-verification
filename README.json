@@ -218,7 +218,7 @@
             "open_issues": 11,
             "owner": "Certora",
             "repo": "gambit",
-            "stars": 212,
+            "stars": 213,
             "topics": []
           },
           "first_seen": "2026-08-28T21:19:01.248Z"
@@ -473,7 +473,7 @@
                 "open_issues": 13,
                 "owner": "ProjectOpenSea",
                 "repo": "seaport",
-                "stars": 2259,
+                "stars": 2260,
                 "topics": []
               },
               "first_seen": "2026-08-28T21:19:01.248Z"
@@ -557,7 +557,7 @@
             "open_issues": 353,
             "owner": "OpenZeppelin",
             "repo": "openzeppelin-contracts",
-            "stars": 27289,
+            "stars": 27287,
             "topics": [
               "ethereum",
               "evm",
@@ -636,7 +636,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-17T14:02:20.161Z",
+    "last_updated": "2026-10-18T14:15:46.652Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated collection of tools, frameworks, and methodologies for testing and verifying Solidity smart contracts.",
