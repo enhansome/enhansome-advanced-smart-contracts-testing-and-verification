@@ -553,7 +553,7 @@
             "id": 64700934,
             "language": "Solidity",
             "license": "MIT",
-            "last_commit": "2026-10-16T15:11:57Z",
+            "last_commit": "2026-10-19T15:08:01Z",
             "open_issues": 353,
             "owner": "OpenZeppelin",
             "repo": "openzeppelin-contracts",
@@ -636,7 +636,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-18T14:15:46.652Z",
+    "last_updated": "2026-10-19T17:18:35.711Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated collection of tools, frameworks, and methodologies for testing and verifying Solidity smart contracts.",
