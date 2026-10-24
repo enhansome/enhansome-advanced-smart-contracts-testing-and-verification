@@ -77,10 +77,10 @@
             "language": "Python",
             "license": "AGPL-3.0",
             "last_commit": "2025-08-06T19:05:39Z",
-            "open_issues": 86,
+            "open_issues": 87,
             "owner": "a16z",
             "repo": "halmos",
-            "stars": 1036,
+            "stars": 1037,
             "topics": []
           },
           "first_seen": "2026-08-28T21:19:01.248Z"
@@ -140,7 +140,7 @@
             "language": "Go",
             "license": "AGPL-3.0",
             "last_commit": "2026-09-09T18:24:42Z",
-            "open_issues": 79,
+            "open_issues": 80,
             "owner": "crytic",
             "repo": "medusa",
             "stars": 496,
@@ -557,7 +557,7 @@
             "open_issues": 342,
             "owner": "OpenZeppelin",
             "repo": "openzeppelin-contracts",
-            "stars": 27297,
+            "stars": 27301,
             "topics": [
               "ethereum",
               "evm",
@@ -636,7 +636,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-23T15:37:23.537Z",
+    "last_updated": "2026-10-24T14:13:26.409Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated collection of tools, frameworks, and methodologies for testing and verifying Solidity smart contracts.",
