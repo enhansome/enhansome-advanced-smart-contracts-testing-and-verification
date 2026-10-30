@@ -80,7 +80,7 @@
             "open_issues": 91,
             "owner": "a16z",
             "repo": "halmos",
-            "stars": 1038,
+            "stars": 1040,
             "topics": []
           },
           "first_seen": "2026-08-28T21:19:01.248Z"
@@ -140,10 +140,10 @@
             "language": "Go",
             "license": "AGPL-3.0",
             "last_commit": "2026-10-28T23:54:46Z",
-            "open_issues": 77,
+            "open_issues": 81,
             "owner": "crytic",
             "repo": "medusa",
-            "stars": 495,
+            "stars": 496,
             "topics": []
           },
           "first_seen": "2026-08-28T21:19:01.248Z"
@@ -214,7 +214,7 @@
             "id": 566004537,
             "language": "Rust",
             "license": "MIT",
-            "last_commit": "2026-08-12T19:15:15Z",
+            "last_commit": "2026-10-29T18:26:41Z",
             "open_issues": 11,
             "owner": "Certora",
             "repo": "gambit",
@@ -553,11 +553,11 @@
             "id": 64700934,
             "language": "Solidity",
             "license": "MIT",
-            "last_commit": "2026-10-29T08:14:34Z",
+            "last_commit": "2026-10-30T09:25:03Z",
             "open_issues": 339,
             "owner": "OpenZeppelin",
             "repo": "openzeppelin-contracts",
-            "stars": 27335,
+            "stars": 27329,
             "topics": [
               "ethereum",
               "evm",
@@ -636,7 +636,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-29T17:17:24.058Z",
+    "last_updated": "2026-10-30T16:55:35.994Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated collection of tools, frameworks, and methodologies for testing and verifying Solidity smart contracts.",
@@ -648,7 +648,7 @@
       "open_issues": 16,
       "owner": "GianfrancoBazzani",
       "repo": "awesome-advanced-smart-contracts-testing-and-verification",
-      "stars": 78,
+      "stars": 79,
       "topics": [
         "awesome",
         "awesome-list",
