@@ -15,7 +15,7 @@
             "id": 101585932,
             "language": "Haskell",
             "license": "AGPL-3.0",
-            "last_commit": "2026-11-02T19:44:19Z",
+            "last_commit": "2026-11-02T21:34:49Z",
             "open_issues": 107,
             "owner": "crytic",
             "repo": "echidna",
@@ -48,7 +48,7 @@
             "open_issues": 63,
             "owner": "fuzzland",
             "repo": "ityfuzz",
-            "stars": 1121,
+            "stars": 1120,
             "topics": [
               "aptos",
               "blockchain",
@@ -218,7 +218,7 @@
             "open_issues": 11,
             "owner": "Certora",
             "repo": "gambit",
-            "stars": 214,
+            "stars": 215,
             "topics": []
           },
           "first_seen": "2026-08-28T21:19:01.248Z"
@@ -384,7 +384,7 @@
                 "id": 101585932,
                 "language": "Haskell",
                 "license": "AGPL-3.0",
-                "last_commit": "2026-11-02T19:44:19Z",
+                "last_commit": "2026-11-02T21:34:49Z",
                 "open_issues": 107,
                 "owner": "crytic",
                 "repo": "echidna",
@@ -473,7 +473,7 @@
                 "open_issues": 13,
                 "owner": "ProjectOpenSea",
                 "repo": "seaport",
-                "stars": 2259,
+                "stars": 2260,
                 "topics": []
               },
               "first_seen": "2026-08-28T21:19:01.248Z"
@@ -554,10 +554,10 @@
             "language": "Solidity",
             "license": "MIT",
             "last_commit": "2026-11-02T08:34:14Z",
-            "open_issues": 330,
+            "open_issues": 332,
             "owner": "OpenZeppelin",
             "repo": "openzeppelin-contracts",
-            "stars": 27342,
+            "stars": 27340,
             "topics": [
               "ethereum",
               "evm",
@@ -636,7 +636,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-02T20:37:13.673Z",
+    "last_updated": "2026-11-03T18:13:01.441Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated collection of tools, frameworks, and methodologies for testing and verifying Solidity smart contracts.",
