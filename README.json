@@ -19,7 +19,7 @@
             "open_issues": 104,
             "owner": "crytic",
             "repo": "echidna",
-            "stars": 3193,
+            "stars": 3195,
             "topics": [
               "ethereum",
               "evm",
@@ -143,7 +143,7 @@
             "open_issues": 83,
             "owner": "crytic",
             "repo": "medusa",
-            "stars": 500,
+            "stars": 501,
             "topics": []
           },
           "first_seen": "2026-08-28T21:19:01.248Z"
@@ -388,7 +388,7 @@
                 "open_issues": 104,
                 "owner": "crytic",
                 "repo": "echidna",
-                "stars": 3193,
+                "stars": 3195,
                 "topics": [
                   "ethereum",
                   "evm",
@@ -469,8 +469,8 @@
                 "id": 450202525,
                 "language": "Solidity",
                 "license": "MIT",
-                "last_commit": "2026-11-10T18:15:43Z",
-                "open_issues": 3,
+                "last_commit": "2026-11-10T22:54:37Z",
+                "open_issues": 1,
                 "owner": "ProjectOpenSea",
                 "repo": "seaport",
                 "stars": 2261,
@@ -557,7 +557,7 @@
             "open_issues": 339,
             "owner": "OpenZeppelin",
             "repo": "openzeppelin-contracts",
-            "stars": 27354,
+            "stars": 27356,
             "topics": [
               "ethereum",
               "evm",
@@ -636,7 +636,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-10T18:26:55.753Z",
+    "last_updated": "2026-11-11T18:19:03.787Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated collection of tools, frameworks, and methodologies for testing and verifying Solidity smart contracts.",
