@@ -15,11 +15,11 @@
             "id": 101585932,
             "language": "Haskell",
             "license": "AGPL-3.0",
-            "last_commit": "2026-11-06T22:49:23Z",
-            "open_issues": 104,
+            "last_commit": "2026-11-17T18:15:19Z",
+            "open_issues": 105,
             "owner": "crytic",
             "repo": "echidna",
-            "stars": 3198,
+            "stars": 3199,
             "topics": [
               "ethereum",
               "evm",
@@ -80,7 +80,7 @@
             "open_issues": 93,
             "owner": "a16z",
             "repo": "halmos",
-            "stars": 1043,
+            "stars": 1044,
             "topics": []
           },
           "first_seen": "2026-08-28T21:19:01.248Z"
@@ -143,7 +143,7 @@
             "open_issues": 83,
             "owner": "crytic",
             "repo": "medusa",
-            "stars": 502,
+            "stars": 503,
             "topics": []
           },
           "first_seen": "2026-08-28T21:19:01.248Z"
@@ -384,11 +384,11 @@
                 "id": 101585932,
                 "language": "Haskell",
                 "license": "AGPL-3.0",
-                "last_commit": "2026-11-06T22:49:23Z",
-                "open_issues": 104,
+                "last_commit": "2026-11-17T18:15:19Z",
+                "open_issues": 105,
                 "owner": "crytic",
                 "repo": "echidna",
-                "stars": 3198,
+                "stars": 3199,
                 "topics": [
                   "ethereum",
                   "evm",
@@ -553,11 +553,11 @@
             "id": 64700934,
             "language": "Solidity",
             "license": "MIT",
-            "last_commit": "2026-11-16T13:50:26Z",
-            "open_issues": 343,
+            "last_commit": "2026-11-17T17:44:43Z",
+            "open_issues": 341,
             "owner": "OpenZeppelin",
             "repo": "openzeppelin-contracts",
-            "stars": 27365,
+            "stars": 27368,
             "topics": [
               "ethereum",
               "evm",
@@ -636,7 +636,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-16T20:47:01.446Z",
+    "last_updated": "2026-11-17T19:33:28.993Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated collection of tools, frameworks, and methodologies for testing and verifying Solidity smart contracts.",
