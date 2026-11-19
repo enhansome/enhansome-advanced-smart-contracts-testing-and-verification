@@ -19,11 +19,11 @@
 
 Arsenal of fuzzing and verification tools, tailor-made for probing and dissecting the inner workings of smart contracts.
 
-* [**Echinda | Ethereum smart contract Property-based fuzzer**](https://github.com/crytic/echidna/) ⭐ 3,200 | 🐛 105 | 🌐 Haskell | 📅 2026-11-17
+* [**Echinda | Ethereum smart contract Property-based fuzzer**](https://github.com/crytic/echidna/) ⭐ 3,200 | 🐛 106 | 🌐 Haskell | 📅 2026-11-18
 * [**ItyFuzz | EVM and MoveVM hybrid fuzzer that combines symbolic execution and fuzzing**](https://github.com/fuzzland/ityfuzz) ⭐ 1,122 | 🐛 64 | 🌐 Rust | 📅 2025-12-10
 * [**Halmos | Symbolic testing tool for EVM smart contracts**](https://github.com/a16z/halmos) ⭐ 1,044 | 🐛 93 | 🌐 Python | 📅 2025-08-06
 * [**Pyrometer | symbolic execution, abstract interpretation, and static analysis**](https://github.com/nascentxyz/pyrometer/tree/master) ⭐ 798 | 🐛 15 | 🌐 Rust | 📅 2025-02-14
-* [**Maat | Dynamic Symbolic Execution and Binary Analysis framework**](https://github.com/trailofbits/maat) ⭐ 652 | 🐛 32 | 🌐 C++ | 📅 2026-05-22
+* [**Maat | Dynamic Symbolic Execution and Binary Analysis framework**](https://github.com/trailofbits/maat) ⭐ 652 | 🐛 33 | 🌐 C++ | 📅 2026-11-19
 * [**Medusa | Property-based fuzzer based on Echidna written in go**](https://github.com/crytic/medusa) ⭐ 503 | 🐛 83 | 🌐 Go | 📅 2026-10-28
 * [**Bulloak | Solidity test generator based on the Branching Tree Technique**](https://github.com/alexfertel/bulloak) ⭐ 354 | 🐛 14 | 🌐 Rust | 📅 2026-03-14
 * [**Etheno | JSON RPC multiplexer, analysis tool wrapper, test integration tool**](https://github.com/crytic/etheno) ⚠️ Archived
@@ -52,7 +52,7 @@ Arsenal of fuzzing and verification tools, tailor-made for probing and dissectin
 
 **Property-based** testing aims to identify and test **invariants**. Invariants are conditions expressions that should always hold true over the course of a fuzzing campaign. Invariants are about properties of the system as a whole, rather than specific reactions to specific inputs.
 
-* [**Public Use of Echidna**](https://github.com/crytic/echidna?tab=readme-ov-file#public-use-of-echidna) ⭐ 3,200 | 🐛 105 | 🌐 Haskell | 📅 2026-11-17
+* [**Public Use of Echidna**](https://github.com/crytic/echidna?tab=readme-ov-file#public-use-of-echidna) ⭐ 3,200 | 🐛 106 | 🌐 Haskell | 📅 2026-11-18
 * [**Trail of Bits pre-defined invariants**](https://github.com/crytic/properties) ⭐ 372 | 🐛 35 | 🌐 Solidity | 📅 2026-03-09
 * [**Perimetersec Public Fuzzing Campaigns List**](https://github.com/perimetersec/public-fuzzing-campaigns-list) ⭐ 129 | 🐛 0 | 📅 2026-01-24
 * [**Trail of Bits Echidna Tutorials**](https://secure-contracts.com/program-analysis/echidna/index.html)
@@ -81,7 +81,7 @@ Arsenal of fuzzing and verification tools, tailor-made for probing and dissectin
 
 **Formal Verification** is an approach to assessing the correctness of software by checking whether a formal model of the program matches the formal specification. Unlike testing, formal verification can verify a smart contract's execution satisfies a formal specification for all executions without needing to execute it with sample data.
 
-* [**Certora Formal Verification of Openzeppelin contracts**](https://github.com/OpenZeppelin/openzeppelin-contracts/blob/master/certora/README.md) ⭐ 27,371 | 🐛 342 | 🌐 Solidity | 📅 2026-11-18
+* [**Certora Formal Verification of Openzeppelin contracts**](https://github.com/OpenZeppelin/openzeppelin-contracts/blob/master/certora/README.md) ⭐ 27,372 | 🐛 340 | 🌐 Solidity | 📅 2026-11-19
 * [**WilfredTA formal-methods-curriculum**](https://github.com/WilfredTA/formal-methods-curriculum/tree/master) ⭐ 169 | 🐛 1 | 🌐 Jupyter Notebook | 📅 2022-07-14
 * [**Using Halmos to Formally Verify Solady's FixedPointMathLib**](https://github.com/zobront/halmos-solady) ⭐ 58 | 🐛 0 | 🌐 Solidity | 📅 2024-08-22
 * [**Certora ERC4626 TrustX 2023 workshop**](https://github.com/Certora/ERC4626_Workshop) ⭐ 3 | 🐛 0 | 🌐 Solidity | 📅 2023-12-11
@@ -113,4 +113,4 @@ Contributions welcome! Read the [contribution guidelines](contributing.md) first
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-18._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-19._
