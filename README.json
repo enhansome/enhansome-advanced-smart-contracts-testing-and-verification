@@ -48,7 +48,7 @@
             "open_issues": 64,
             "owner": "fuzzland",
             "repo": "ityfuzz",
-            "stars": 1122,
+            "stars": 1121,
             "topics": [
               "aptos",
               "blockchain",
@@ -80,7 +80,7 @@
             "open_issues": 93,
             "owner": "a16z",
             "repo": "halmos",
-            "stars": 1044,
+            "stars": 1045,
             "topics": []
           },
           "first_seen": "2026-08-28T21:19:01.248Z"
@@ -101,7 +101,7 @@
             "open_issues": 15,
             "owner": "nascentxyz",
             "repo": "pyrometer",
-            "stars": 798,
+            "stars": 797,
             "topics": []
           },
           "first_seen": "2026-08-28T21:19:01.248Z"
@@ -118,11 +118,11 @@
             "id": 418854583,
             "language": "C++",
             "license": "NOASSERTION",
-            "last_commit": "2026-11-19T17:55:43Z",
+            "last_commit": "2026-11-20T16:34:36Z",
             "open_issues": 33,
             "owner": "trailofbits",
             "repo": "maat",
-            "stars": 652,
+            "stars": 651,
             "topics": []
           },
           "first_seen": "2026-08-28T21:19:01.248Z"
@@ -143,7 +143,7 @@
             "open_issues": 83,
             "owner": "crytic",
             "repo": "medusa",
-            "stars": 503,
+            "stars": 502,
             "topics": []
           },
           "first_seen": "2026-08-28T21:19:01.248Z"
@@ -164,7 +164,7 @@
             "open_issues": 14,
             "owner": "alexfertel",
             "repo": "bulloak",
-            "stars": 354,
+            "stars": 352,
             "topics": [
               "cli",
               "solidity",
@@ -190,7 +190,7 @@
             "open_issues": 37,
             "owner": "crytic",
             "repo": "etheno",
-            "stars": 337,
+            "stars": 336,
             "topics": [
               "differential-testing",
               "ethereum",
@@ -417,7 +417,7 @@
                 "open_issues": 35,
                 "owner": "crytic",
                 "repo": "properties",
-                "stars": 372,
+                "stars": 371,
                 "topics": []
               },
               "first_seen": "2026-08-28T21:19:01.248Z"
@@ -438,7 +438,7 @@
                 "open_issues": 0,
                 "owner": "perimetersec",
                 "repo": "public-fuzzing-campaigns-list",
-                "stars": 129,
+                "stars": 130,
                 "topics": [
                   "echidna",
                   "evm",
@@ -494,7 +494,7 @@
                 "open_issues": 11,
                 "owner": "dmfxyz",
                 "repo": "murky",
-                "stars": 516,
+                "stars": 515,
                 "topics": [
                   "ethereum",
                   "merkle",
@@ -521,7 +521,7 @@
                 "open_issues": 0,
                 "owner": "NewmanXBT",
                 "repo": "differential-fuzzing",
-                "stars": 10,
+                "stars": 9,
                 "topics": [
                   "evm",
                   "foundry",
@@ -553,11 +553,11 @@
             "id": 64700934,
             "language": "Solidity",
             "license": "MIT",
-            "last_commit": "2026-11-19T15:07:31Z",
+            "last_commit": "2026-11-20T15:59:54Z",
             "open_issues": 340,
             "owner": "OpenZeppelin",
             "repo": "openzeppelin-contracts",
-            "stars": 27372,
+            "stars": 27370,
             "topics": [
               "ethereum",
               "evm",
@@ -636,7 +636,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-19T19:19:21.893Z",
+    "last_updated": "2026-11-20T18:56:49.893Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated collection of tools, frameworks, and methodologies for testing and verifying Solidity smart contracts.",
