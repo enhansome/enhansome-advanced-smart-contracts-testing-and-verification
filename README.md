@@ -23,11 +23,11 @@ Arsenal of fuzzing and verification tools, tailor-made for probing and dissectin
 * [**ItyFuzz | EVM and MoveVM hybrid fuzzer that combines symbolic execution and fuzzing**](https://github.com/fuzzland/ityfuzz) ⭐ 1,121 | 🐛 64 | 🌐 Rust | 📅 2025-12-10
 * [**Halmos | Symbolic testing tool for EVM smart contracts**](https://github.com/a16z/halmos) ⭐ 1,045 | 🐛 94 | 🌐 Python | 📅 2025-08-06
 * [**Pyrometer | symbolic execution, abstract interpretation, and static analysis**](https://github.com/nascentxyz/pyrometer/tree/master) ⭐ 797 | 🐛 15 | 🌐 Rust | 📅 2025-02-14
-* [**Maat | Dynamic Symbolic Execution and Binary Analysis framework**](https://github.com/trailofbits/maat) ⭐ 651 | 🐛 30 | 🌐 C++ | 📅 2026-11-22
-* [**Medusa | Property-based fuzzer based on Echidna written in go**](https://github.com/crytic/medusa) ⭐ 502 | 🐛 83 | 🌐 Go | 📅 2026-10-28
-* [**Bulloak | Solidity test generator based on the Branching Tree Technique**](https://github.com/alexfertel/bulloak) ⭐ 352 | 🐛 14 | 🌐 Rust | 📅 2026-03-14
+* [**Maat | Dynamic Symbolic Execution and Binary Analysis framework**](https://github.com/trailofbits/maat) ⭐ 651 | 🐛 29 | 🌐 C++ | 📅 2026-11-23
+* [**Medusa | Property-based fuzzer based on Echidna written in go**](https://github.com/crytic/medusa) ⭐ 502 | 🐛 84 | 🌐 Go | 📅 2026-10-28
+* [**Bulloak | Solidity test generator based on the Branching Tree Technique**](https://github.com/alexfertel/bulloak) ⭐ 353 | 🐛 14 | 🌐 Rust | 📅 2026-03-14
 * [**Etheno | JSON RPC multiplexer, analysis tool wrapper, test integration tool**](https://github.com/crytic/etheno) ⚠️ Archived
-* [**Gambit | Solidity mutation system**](https://github.com/Certora/gambit) ⭐ 215 | 🐛 11 | 🌐 Rust | 📅 2026-10-29
+* [**Gambit | Solidity mutation system**](https://github.com/Certora/gambit) ⭐ 216 | 🐛 11 | 🌐 Rust | 📅 2026-10-29
 * [**Vertigo-rs | Ethereum smart contract mutation testing framework**](https://github.com/JoranHonig/vertigo) ⭐ 209 | 🐛 17 | 🌐 Python | 📅 2023-11-21
 * [**Dafny-EVM | functional specification of the Ethereum Virtual Machine in Dafny**](https://github.com/ConsenSys/evm-dafny) ⭐ 142 | 🐛 46 | 🌐 Dafny | 📅 2026-05-11
 * [**Fuzz-utils | Tool for generating Foundry unit tests from smart contract fuzzer failed properties**](https://github.com/crytic/fuzz-utils) ⭐ 115 | 🐛 19 | 🌐 Solidity | 📅 2025-08-25
@@ -81,7 +81,7 @@ Arsenal of fuzzing and verification tools, tailor-made for probing and dissectin
 
 **Formal Verification** is an approach to assessing the correctness of software by checking whether a formal model of the program matches the formal specification. Unlike testing, formal verification can verify a smart contract's execution satisfies a formal specification for all executions without needing to execute it with sample data.
 
-* [**Certora Formal Verification of Openzeppelin contracts**](https://github.com/OpenZeppelin/openzeppelin-contracts/blob/master/certora/README.md) ⭐ 27,363 | 🐛 341 | 🌐 Solidity | 📅 2026-11-20
+* [**Certora Formal Verification of Openzeppelin contracts**](https://github.com/OpenZeppelin/openzeppelin-contracts/blob/master/certora/README.md) ⭐ 27,365 | 🐛 340 | 🌐 Solidity | 📅 2026-11-23
 * [**WilfredTA formal-methods-curriculum**](https://github.com/WilfredTA/formal-methods-curriculum/tree/master) ⭐ 169 | 🐛 1 | 🌐 Jupyter Notebook | 📅 2022-07-14
 * [**Using Halmos to Formally Verify Solady's FixedPointMathLib**](https://github.com/zobront/halmos-solady) ⭐ 58 | 🐛 0 | 🌐 Solidity | 📅 2024-08-22
 * [**Certora ERC4626 TrustX 2023 workshop**](https://github.com/Certora/ERC4626_Workshop) ⭐ 3 | 🐛 0 | 🌐 Solidity | 📅 2023-12-11
@@ -113,4 +113,4 @@ Contributions welcome! Read the [contribution guidelines](contributing.md) first
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-22._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-23._
